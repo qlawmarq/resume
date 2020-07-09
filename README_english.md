@@ -195,4 +195,4 @@ Worked on several projects, mainly from design to implementation.
 ## Extracurricular Activities
 
 ### External Projects.
-[Translation Gatsby.js documents to Japanese](https://github.com/gatsbyjs/gatsby-en)
+[Translation Gatsby.js documents to Japanese](https://github.com/gatsbyjs/gatsby-ja)
