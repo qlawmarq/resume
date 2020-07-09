@@ -18,6 +18,8 @@
 - React.js
 - React Native
 - Vue.js
+- GraphQL
 - AR
 - LiDAR
 - VR
+- No-code development
