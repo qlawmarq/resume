@@ -1,24 +1,34 @@
 # 職務経歴書
 
-## 基本情報
+## 👤 基本情報
 
 |key|value|
 |---|-----|
 |Name|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
+|Birth date|1993/02/12|
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Site|[yopinoji.info](https://yopinoji.info/)|
+|Email|yopinoji@gmail.com|
 |Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
 |LAPRAS|[Portfolio](https://lapras.com/public/DH44BT7)|
 |Qiita|[@YopiNoji](https://qiita.com/YopiNoji)|
 |Wantedly|[吉岩 正樹](https://www.wantedly.com/users/116591527)|
 
-### 学歴
+## 🏫 学歴
 
-2012年4月～2017年3月 
-横浜市立大学
-国際教養学士
+2012年4月～2017年3月  
+横浜市立大学  
+国際教養学士  
 
-## スキル
+## 📋 スキル
+
+### 言語
+
+- 日本語
+  - ネイティブ
+- 英語
+  - 学生時代に半年ほど留学経験あり
+  - 日常会話レベル
 
 ### プログラミング言語
 
@@ -40,15 +50,7 @@
 
 - GitHub Actions
 
-## 言語
-
-- 日本語
-  - ネイティブ
-- 英語
-  - 学生時代に半年ほど留学経験あり
-  - 日常会話レベル
-
-## 職務経歴
+## 📈 職務経歴
 
 ### 2020/05 - 現在 : 株式会社FUNEE
 
@@ -193,7 +195,7 @@
 
 ---
 
-## 課外活動
+## 🌐 課外活動
 
 ### 社外プロジェクト
 * [Gatsby js 日本語ドキュメントの翻訳を一部担当](https://github.com/gatsbyjs/gatsby-ja)

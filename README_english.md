@@ -1,21 +1,32 @@
-# Rejume
+# Curriculum-Vitae
 
-## Personal Data
+## 👤 Personal Data
 
 |key|value|
 |---|-----|
 |Name|Masaki Yoshiiwa|
+|Birth date|Feburary 12, 1993|
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Site|[yopinoji.info](https://yopinoji.info/)|
+|Email|yopinoji@gmail.com|
 |Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
 
-### Education
 
-Apr 2012 – Mar 2017 
-Yokohama City University, Japan 
-Bachelor of International Liberal Arts
+## 🏫 Education
 
-## Skill
+Apr 2012 – Mar 2017  
+Yokohama City University, Japan  
+Bachelor of International Liberal Arts  
+
+## 📋 Skill
+
+### Language
+
+- Japanese
+  - Native speaker
+- English
+  - I studied abroad for half a year when I was a student.
+  - Daily conversation level
 
 ### Programming Language
 
@@ -37,16 +48,8 @@ Bachelor of International Liberal Arts
 
 - GitHub Actions
 
- ## Language
 
-- Japanese
-  - Native speaker
-- English
-  - I studied abroad for half a year when I was a student.
-  - Daily conversation level
-
-
-## Career History
+## 📈 Career History
 
 ### 2020/05 - Now : FUNEE Inc.
 
@@ -192,7 +195,7 @@ Worked on several projects, mainly from design to implementation.
 
 ---
 
-## Extracurricular Activities
+## 🌐 Extracurricular Activities
 
 ### External Projects.
 [Translation Gatsby.js documents to Japanese](https://github.com/gatsbyjs/gatsby-en)
