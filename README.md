@@ -12,9 +12,16 @@
 |Qiita|[@YopiNoji](https://qiita.com/YopiNoji)|
 |Wantedly|[吉岩 正樹](https://www.wantedly.com/users/116591527)|
 
+### 学歴
+
+2012年4月～2017年3月 
+横浜市立大学
+国際教養学士
+
 ## スキル
 
 ### プログラミング言語
+
 - JavaScript
 - TypeScript
 - CSS
