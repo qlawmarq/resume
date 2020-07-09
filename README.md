@@ -19,7 +19,7 @@
 - React Native
 - Vue.js
 - GraphQL
-
+- TypeScript
 - AR
 - LiDAR
 - VR
