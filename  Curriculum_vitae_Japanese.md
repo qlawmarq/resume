@@ -1,14 +1,29 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+pdf_options:
+  format: A4
+  margin: 30mm 20mm
+  displayHeaderFooter: true
+  footerTemplate: |-
+    <section>
+      <div>
+        Page <span class="pageNumber"></span>
+        of <span class="totalPages"></span>
+      </div>
+    </section>
+---
+
 # 職務経歴書
 
 ## 👤 基本情報
 
 |key|value|
 |---|-----|
-|Name|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
-|Birth date|1993/02/12|
-|Blog|[yopinoji.com](https://yopinoji.com/)|
-|Site|[yopinoji.info](https://yopinoji.info/)|
-|Email|yopinoji@gmail.com|
+|名前|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
+|生年月日|1993/02/12|
+|ブログ|[yopinoji.com](https://yopinoji.com/)|
+|メール|yopinoji@gmail.com|
 |Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
 |LAPRAS|[Portfolio](https://lapras.com/public/DH44BT7)|
 |Qiita|[@YopiNoji](https://qiita.com/YopiNoji)|
@@ -61,9 +76,6 @@
 |事業内容|自社サービス開発|
 |従業員数|10名以下|
 
-<details>
-	<summary>対応案件 詳細</summary>
-
 #### 自社サービス開発
 
 サービス立ち上げ期における開発に携わる。
@@ -76,8 +88,6 @@
     - Firebase
     - GitHub Actions
 
-</details>
-
 ---
 
 ### 2019/12 - 現在 : 株式会社フォトラクション
@@ -88,9 +98,6 @@
 |雇用形態|正社員|
 |事業内容|建築・土木の生産支援 SaaS Photoruction の運営|
 |従業員数|約50名|
-
-<details>
-	<summary>対応案件 詳細</summary>
 
 #### Photoruction 開発チーム
 
@@ -117,8 +124,6 @@
     - GraphQL
     - GitHub Actions
 
-</details>
-
 ---
 
 ### 2019/01 - 2019/08 : 株式会社ココチエ
@@ -129,9 +134,6 @@
 |雇用形態|正社員|
 |事業内容|Webサイト制作・自社メディア運営・自社サービス開発|
 |従業員数|約25名|
-
-<details>
-	<summary>対応案件 詳細</summary>
 
 #### 結婚式の Web 招待状サービスの開発運営
 
@@ -159,8 +161,6 @@
     - Vue.js
     - AWS
 
-</details>
-
 ---
 
 ### 2017/04 - 2018/12 : 株式会社ジャステック
@@ -171,9 +171,6 @@
 |雇用形態|正社員|
 |事業内容|受託契約でのシステム開発|
 |従業員数|1000名以上|
-
-<details>
-	<summary>対応案件 詳細</summary>
 
 #### 受託でのシステム開発
 
@@ -190,8 +187,6 @@
     - 大手保険会社
     - 大手運送業者
     - 大手証券会社
-
-</details>
 
 ---
 
