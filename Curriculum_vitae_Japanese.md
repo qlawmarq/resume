@@ -120,9 +120,10 @@ pdf_options:
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
 - 利用技術
     - Nuxt.js(TypeScript)
-    - Hasura
-    - GraphQL
+    - Hasura GraphQL Engine
+    - Apollo Client
     - GitHub Actions
+    - AWS
 
 ---
 
