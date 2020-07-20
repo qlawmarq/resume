@@ -22,6 +22,7 @@ pdf_options:
 |---|-----|
 |Name|Masaki Yoshiiwa|
 |Birth date|Feburary 12, 1993|
+|GitHub|[YopiNoji](https://github.com/YopiNoji)|
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Site|[yopinoji.info](https://yopinoji.info/)|
 |Email|yopinoji@gmail.com|
