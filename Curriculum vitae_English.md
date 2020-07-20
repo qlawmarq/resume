@@ -16,7 +16,7 @@ pdf_options:
 
 # Curriculum-Vitae
 
-## 👤 Personal Data
+## Personal Data
 
 |key|value|
 |---|-----|
@@ -28,13 +28,13 @@ pdf_options:
 |Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
 
 
-## 🏫 Education
+## Education
 
 Apr 2012 – Mar 2017  
 Yokohama City University, Japan  
 Bachelor of International Liberal Arts  
 
-## 📋 Skill
+## Skill
 
 ### Language
 
@@ -65,7 +65,7 @@ Bachelor of International Liberal Arts
 - GitHub Actions
 
 
-## 📈 Career History
+## Career History
 
 ### 2020/05 - Now : FUNEE Inc.
 
@@ -192,7 +192,7 @@ Worked on several projects, mainly from design to implementation.
 
 ---
 
-## 🌐 Extracurricular Activities
+## Extracurricular Activities
 
 ### External Projects.
 [Translation Gatsby.js documents to Japanese](https://github.com/gatsbyjs/gatsby-ja)
