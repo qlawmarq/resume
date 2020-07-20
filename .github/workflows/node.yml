@@ -30,4 +30,5 @@ jobs:
         git config --global user.email "yopinoji@gmail.com"
         git config --global user.name "YopiNoji"
         git add .
-        git commit -m 'generate PDF' && git push ${REPO} HEAD:${{github.event.pull_request.head.ref}} || true
+        git status
+        git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}} || true
