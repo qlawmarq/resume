@@ -24,10 +24,9 @@ pdf_options:
 |生年月日|1993/02/12|
 |ブログ|[yopinoji.com](https://yopinoji.com/)|
 |メール|yopinoji@gmail.com|
-|Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
+|GitHub|[YopiNoji](https://github.com/YopiNoji)|
 |LAPRAS|[Portfolio](https://lapras.com/public/DH44BT7)|
-|Qiita|[@YopiNoji](https://qiita.com/YopiNoji)|
-|Wantedly|[吉岩 正樹](https://www.wantedly.com/users/116591527)|
+|Twitter|[@YopiNoji](https://twitter.com/YopiNoji)|
 
 ## 学歴
 
