@@ -121,9 +121,10 @@ I was involved in the development of a new construction BPO business.
 - Application technology
     - Nuxt.js(TypeScript)
     - Hasura GraphQL Engine
-    - GraphQL
+    - Apollo Client
     - PostgreSQL
     - GitHub Actions
+    - AWS
 
 
 ---
