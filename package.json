@@ -1,0 +1,27 @@
+{
+  "name": "yopinoji",
+  "version": "1.0.0",
+  "description": "Converting resumes written in markdown to PDF",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "md-to-pdf ./*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YopiNoji/YopiNoji.git"
+  },
+  "keywords": [
+    "rejume",
+    "pdf"
+  ],
+  "author": "YopiNoji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YopiNoji/YopiNoji/issues"
+  },
+  "homepage": "https://github.com/YopiNoji/YopiNoji#readme",
+  "dependencies": {
+    "md-to-pdf": "^3.1.1"
+  }
+}

@@ -1,3 +1,19 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+pdf_options:
+  format: A4
+  margin: 30mm 20mm
+  displayHeaderFooter: true
+  footerTemplate: |-
+    <section>
+      <div>
+        Page <span class="pageNumber"></span>
+        of <span class="totalPages"></span>
+      </div>
+    </section>
+---
+
 # Curriculum-Vitae
 
 ## 👤 Personal Data
@@ -57,13 +73,10 @@ Bachelor of International Liberal Arts
 |---|-----|
 |Occupations|Front-end developer|
 |Employment Type|Contract employee|
-|Business Description|Apparel Tech SaaS Operation|
+|Business Description|Fashion Platform Business|
 |Number of employees|About 10|
 
-<details>
-	<summary>Case details</summary>
-
-#### Apparel Tech SaaS Operation
+#### Fashion Platform Business 
 
 I was involved in the development of the service during the launch phase.
 
@@ -75,8 +88,6 @@ I was involved in the development of the service during the launch phase.
     - Firebase
     - GitHub Actions
 
-</details>
-
 ---
 
 ### 2019/12 - Now : Photoraction Inc.
@@ -87,9 +98,6 @@ I was involved in the development of the service during the launch phase.
 |Employment Type|Full-time employee|
 |Business Description|Operation of Photoruction, a production support SaaS for construction and civil engineering|
 |Number of employees|About 50|
-
-<details>
-	<summary>Case details</summary>
 
 #### Photoruction development team
 
@@ -117,7 +125,6 @@ I was involved in the development of a new construction BPO business.
     - PostgreSQL
     - GitHub Actions
 
-</details>
 
 ---
 
@@ -130,8 +137,6 @@ I was involved in the development of a new construction BPO business.
 |Business Description|Website development, Web media and SaaS development|
 |Number of employees|About 25|
 
-<details>
-	<summary>Case details</summary>
 
 #### Development and operation of web invitation service for weddings
 
@@ -159,9 +164,6 @@ Mainly involved in infrastructure construction and front-end development, with a
     - OLIVIERS&CO
     - L'Occitane Japon
 
-
-</details>
-
 ---
 
 ### 2017/04 - 2018/12 : JASTEC Inc.
@@ -172,9 +174,6 @@ Mainly involved in infrastructure construction and front-end development, with a
 |Employment Type|Full-time employee|
 |Business Description|System development|
 |Number of employees|About 1,000|
-
-<details>
-	<summary>Case details</summary>
 
 #### System development under contract
 
@@ -190,8 +189,6 @@ Worked on several projects, mainly from design to implementation.
     - Major insurance company
     - Major transportation company
     - Major brokerage company
-
-</details>
 
 ---
 

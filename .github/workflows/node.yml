@@ -1,0 +1,33 @@
+name: Node
+on:
+  push:
+    branches:
+      - master
+      - feature/auto_create_pdf
+
+jobs:
+  nodejob:
+    runs-on: ubuntu-latest
+    env:
+      REPO: https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.17.0'
+
+    - name: yarn install
+      run: yarn install
+
+    - name: Generate PDF
+      run: yarn generate
+
+    - name: Git commit and push
+      run: |
+        git config --global user.email "yopinoji@gmail.com"
+        git config --global user.name "YopiNoji"
+        git add .
+        git commit -m 'generate PDF' && git push ${REPO} HEAD:${{github.event.pull_request.head.ref}} || true
