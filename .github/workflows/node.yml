@@ -25,7 +25,7 @@ jobs:
     - name: Generate PDF
       run: yarn generate
 
-    - name: commit manifests and push
+    - name: Git commit and push
       run: |
         git config --global user.email "yopinoji@gmail.com"
         git config --global user.name "YopiNoji"
