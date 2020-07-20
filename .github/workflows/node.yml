@@ -31,4 +31,4 @@ jobs:
         git config --global user.name "YopiNoji"
         git add .
         git status
-        git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}} || true
+        git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
