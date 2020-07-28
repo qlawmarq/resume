@@ -125,6 +125,7 @@ I was involved in the development of a new construction BPO business.
     - Apollo Client
     - PostgreSQL
     - GitHub Actions
+    - Auth0
     - AWS
 
 
