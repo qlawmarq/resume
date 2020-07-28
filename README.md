@@ -5,7 +5,6 @@
 [![TWITTER](https://img.shields.io/badge/Twitter-@YopiNoji-1DA1F2)](https://twitter.com/YopiNoji)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)
 
-![YopiNoji's github stats](https://github-readme-stats.vercel.app/api?username=YopiNoji&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YopiNoji)](https://github.com/anuraghazra/github-readme-stats)
 
 
