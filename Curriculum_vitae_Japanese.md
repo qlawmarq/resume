@@ -122,6 +122,7 @@ pdf_options:
     - Hasura GraphQL Engine
     - Apollo Client
     - GitHub Actions
+    - Auth0
     - AWS
 
 ---
