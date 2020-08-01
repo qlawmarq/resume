@@ -5,7 +5,7 @@
 [![TWITTER](https://img.shields.io/badge/Twitter-@YopiNoji-1DA1F2)](https://twitter.com/YopiNoji)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=YopiNoji&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=YopiNoji&show_icons=true&count_private=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🔍 Technologies of interest
