@@ -118,11 +118,15 @@ I was involved in the development of new functions.
 I was involved in the development of a new construction BPO business.
 
 - Web service development from scratch
+- Leading the Development
+- Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technology
     - Nuxt.js(TypeScript)
+    - React.js
     - Hasura GraphQL Engine
     - Apollo Client
+    - URQL
     - PostgreSQL
     - GitHub Actions
     - Auth0
