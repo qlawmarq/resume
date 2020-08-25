@@ -116,11 +116,15 @@ pdf_options:
 建設 BPO 事業の新規開発に携わる。
 
 - 0 → 1 でのサービス開発
+- 開発をリードする立場で関わる
+- 技術選定やアーキテクチャ設計を担当
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
 - 利用技術
     - Nuxt.js(TypeScript)
+    - React.js
     - Hasura GraphQL Engine
     - Apollo Client
+    - URQL
     - GitHub Actions
     - Auth0
     - AWS
