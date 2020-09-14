@@ -10,6 +10,8 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=YopiNoji&show_icons=true&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yopinoji&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🔍 Technologies of interest
 
 - React.js
