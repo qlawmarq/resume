@@ -42,6 +42,7 @@ pdf_options:
   - ネイティブ
 - 英語
   - 学生時代に半年ほど留学経験あり
+  - TOEIC 705 点
   - 日常会話レベル
 
 ### プログラミング言語
@@ -63,6 +64,7 @@ pdf_options:
 ### CI/CD
 
 - GitHub Actions
+- Jenkins
 
 ## 職務経歴
 
