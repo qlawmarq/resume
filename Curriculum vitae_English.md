@@ -43,6 +43,7 @@ Bachelor of International Liberal Arts
   - Native speaker
 - English
   - I studied abroad for half a year when I was a student.
+  - TOEIC Score 705
   - Daily conversation level
 
 ### Programming Language
@@ -64,7 +65,7 @@ Bachelor of International Liberal Arts
 ### CI/CD
 
 - GitHub Actions
-
+- Jenkins
 
 ## Career History
 
