@@ -69,7 +69,28 @@ Bachelor of International Liberal Arts
 
 ## Career History
 
-### 2020/05 - Now : FUNEE Inc.
+### 2020/10 - Now : Rakuten Mobile, Inc.
+
+|key|value|
+|---|-----|
+|Occupations|Front-end developer|
+|Employment Type|Contract employee|
+|Business Description|Fashion Platform Business|
+|Number of employees|About 10|
+
+#### Front-end development of web system for ToB
+
+- Front-end development using React.js
+- Development of UI libraries for common use within the company
+- Building a CI/CD environment
+
+- Application Technologies
+    - React.js (TypeScript)
+    - Redux
+
+---
+
+### 2020/05 - 2020/09 : FUNEE Inc.
 
 |key|value|
 |---|-----|
@@ -92,14 +113,14 @@ I was involved in the development of the service during the launch phase.
 
 ---
 
-### 2019/12 - Now : Photoraction Inc.
+### 2019/12 - 2020/09 : Photoraction Inc.
 
 |key|value|
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
-|Business Description|Operation of Photoruction, a production support SaaS for construction and civil engineering|
-|Number of employees|About 50|
+|Business Description||
+|Number of employees|Over 1000|
 
 #### Photoruction development team
 
