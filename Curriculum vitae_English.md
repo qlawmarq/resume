@@ -76,7 +76,7 @@ Bachelor of International Liberal Arts
 |Occupations|Front-end developer|
 |Employment Type|Contract employee|
 |Business Description|Fashion Platform Business|
-|Number of employees|About 10|
+|Number of employees|Over 1000|
 
 #### Front-end development of web system for ToB
 
@@ -120,7 +120,7 @@ I was involved in the development of the service during the launch phase.
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
 |Business Description||
-|Number of employees|Over 1000|
+|Number of employees|About 50|
 
 #### Photoruction development team
 
