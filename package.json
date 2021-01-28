@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YopiNoji/YopiNoji.git"
+    "url": "git+https://github.com/yopinoji/yopinoji.git"
   },
   "keywords": [
     "rejume",
@@ -18,9 +18,9 @@
   "author": "YopiNoji",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YopiNoji/YopiNoji/issues"
+    "url": "https://github.com/yopinoji/yopinoji/issues"
   },
-  "homepage": "https://github.com/YopiNoji/YopiNoji#readme",
+  "homepage": "https://github.com/yopinoji/yopinoji#readme",
   "dependencies": {
     "md-to-pdf": "^3.1.1"
   }
