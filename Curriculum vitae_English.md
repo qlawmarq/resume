@@ -85,7 +85,8 @@ Bachelor of International Liberal Arts
 - Building a CI/CD environment
 
 - Application Technologies
-    - React.js (TypeScript)
+    - React.js
+    - TypeScript
     - Redux
 
 ---
@@ -104,10 +105,13 @@ Bachelor of International Liberal Arts
 I was involved in the development of the service during the launch phase.
 
 - Web app development with Nuxt.js
+- Web app development with React.js
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 
 - Application Technologies
-    - Nuxt.js(TypeScript)
+    - Nuxt.js
+    - React.js
+    - TypeScript
     - Firebase
     - GitHub Actions
 
@@ -144,6 +148,7 @@ I was involved in the development of a new construction BPO business.
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technology
+    - TypeScript
     - Nuxt.js(TypeScript)
     - React.js
     - Hasura GraphQL Engine
