@@ -105,10 +105,13 @@ pdf_options:
 サービス立ち上げ期における開発に携わる。
 
 - Nuxt.js による Web アプリ開発
+- React.js での Web アプリ開発
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
 
 - 利用技術
-    - Nuxt.js(TypeScript)
+    - TypeScript
+    - Nuxt.js
+    - React.js
     - Firebase
     - GitHub Actions
 
@@ -145,7 +148,8 @@ pdf_options:
 - 技術選定やアーキテクチャ設計を担当
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
 - 利用技術
-    - Nuxt.js(TypeScript)
+    - TypeScript
+    - Nuxt.js
     - React.js
     - Hasura GraphQL Engine
     - Apollo Client
