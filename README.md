@@ -4,6 +4,8 @@
 [![TWITTER](https://img.shields.io/badge/Twitter-@YopiNoji-1DA1F2)](https://twitter.com/YopiNoji)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yopinoji&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=YopiNoji&show_icons=true&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yopinoji&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
