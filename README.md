@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/46310104/89122581-23c5b880-d503-11ea-8194-14c4c9f42cd3.png)
 
 [![BLOG](https://img.shields.io/badge/BLOG-yopinoji.com-008080)](https://yopinoji.com/)
-[![TWITTER](https://img.shields.io/badge/Twitter-@YopiNoji-1DA1F2)](https://twitter.com/YopiNoji)
+[![TWITTER](https://img.shields.io/badge/Twitter-@yopinoji-1DA1F2)](https://twitter.com/yopinoji)
 [![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yopinoji&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
