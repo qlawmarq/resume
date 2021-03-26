@@ -43,7 +43,7 @@ Bachelor of International Liberal Arts
   - Native speaker
 - English
   - I studied abroad for half a year when I was a student.
-  - TOEIC Score 705
+  - TOEIC Score 720
   - Daily conversation level
 
 ### Programming Language
