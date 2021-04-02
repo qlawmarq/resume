@@ -56,11 +56,16 @@ Bachelor of International Liberal Arts
 
 ### Programming Frameworks
 
+- React.js
 - Vue.js
 - Nuxt.js
-- React.js
 - Gatsby.js
 - Laravel
+
+### Testing Frameworks
+
+- Cypress
+- Jest
 
 ### CI/CD
 
@@ -88,6 +93,8 @@ Bachelor of International Liberal Arts
     - React.js
     - TypeScript
     - Redux
+    - Cypress
+    - Jest
 
 ---
 
