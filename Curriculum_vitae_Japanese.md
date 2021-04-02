@@ -47,19 +47,29 @@ pdf_options:
 
 ### プログラミング言語
 
-- JavaScript
 - TypeScript
+- JavaScript
 - CSS
 - HTML
 - PHP
 
-### フレームワーク
+### 開発フレームワーク
 
+- React.js
 - Vue.js
 - Nuxt.js
-- React.js
 - Gatsby.js
 - Laravel
+
+## UI コンポーネント
+
+- Atomic Design
+- Storybook
+
+### テスト
+
+- Cypress
+- Jest
 
 ### CI/CD
 
@@ -86,8 +96,11 @@ pdf_options:
 - CI/CD 環境の構築
 
 - 利用技術
-    - React.js(TypeScript)
+    - TypeScript
+    - React.js
     - Redux
+    - Cypress
+    - Jest
 
 ---
 
