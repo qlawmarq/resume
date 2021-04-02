@@ -61,7 +61,7 @@ pdf_options:
 - Gatsby.js
 - Laravel
 
-## UI コンポーネント
+### UI コンポーネント
 
 - Atomic Design
 - Storybook
