@@ -96,6 +96,10 @@ Bachelor of International Liberal Arts
     - Cypress
     - Jest
 
+#### Managing CDN Service (Akamai) Settings
+
+- Setting CDN Service (Akamai)
+
 ---
 
 ### 2020/05 - 2020/09 : FUNEE Inc.
