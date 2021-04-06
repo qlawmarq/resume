@@ -80,7 +80,7 @@ Bachelor of International Liberal Arts
 |---|-----|
 |Occupations|Front-end developer|
 |Employment Type|Contract employee|
-|Business Description|Fashion Platform Business|
+|Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
 #### Front-end development of web system for ToB
