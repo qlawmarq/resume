@@ -83,18 +83,24 @@ Bachelor of International Liberal Arts
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
-#### Front-end development of web system for ToB
+#### Front-end development of web system
 
 - Front-end development using React.js
-- Development of UI libraries for common use within the company
 - Building a CI/CD environment
-
 - Application Technologies
     - React.js
     - TypeScript
     - Redux
     - Cypress
     - Jest
+
+#### Development of UI components library to be used in the team
+
+- Application Technologies
+    - React.js
+    - TypeScript
+    - Storybook
+    - Cypress
 
 #### Managing CDN Service (Akamai) Settings
 
