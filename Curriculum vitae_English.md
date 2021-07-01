@@ -83,10 +83,21 @@ Bachelor of International Liberal Arts
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
-#### Front-end development of web system
+#### Front-end development of web system for B to B
 
 - Front-end development using React.js
 - Building a CI/CD environment
+- Application Technologies
+    - React.js
+    - TypeScript
+    - Redux
+    - Cypress
+    - Jest
+
+#### Front-end development of web system for B to C
+
+- As Dev lead, also manages engineer team and develops specifications
+- Front-end development using React.js
 - Application Technologies
     - React.js
     - TypeScript
