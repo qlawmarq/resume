@@ -78,7 +78,7 @@ Bachelor of International Liberal Arts
 
 |key|value|
 |---|-----|
-|Occupations|Front-end developer|
+|Occupations|Front-end developer (Dev Lead)|
 |Employment Type|Contract employee|
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
