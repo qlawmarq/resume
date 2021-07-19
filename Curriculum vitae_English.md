@@ -97,7 +97,11 @@ Bachelor of International Liberal Arts
 #### Front-end development of web system for B to C
 
 - As Dev lead, also manages engineer team and develops specifications
+    - Team Management
+    - Code Review
+    - Adjust specifications and check implementation
 - Front-end development using React.js
+- Building a CI/CD environment
 - Application Technologies
     - React.js
     - TypeScript
