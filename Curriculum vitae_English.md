@@ -132,6 +132,8 @@ Bachelor of International Liberal Arts
 |Business Description|Fashion Platform Business|
 |Number of employees|About 10|
 
+Participate as a side job only on Saturdays.
+
 #### Fashion Platform Business 
 
 I was involved in the development of the service during the launch phase.
