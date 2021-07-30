@@ -26,7 +26,6 @@ pdf_options:
 |メール|yopinoji@gmail.com|
 |GitHub|[yopinoji](https://github.com/yopinoji)|
 |LAPRAS|[Portfolio](https://lapras.com/public/DH44BT7)|
-|Twitter|[@yopinoji](https://twitter.com/yopinoji)|
 
 ## 学歴
 
