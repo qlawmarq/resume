@@ -26,7 +26,6 @@ pdf_options:
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Site|[yopinoji.info](https://yopinoji.info/)|
 |Email|yopinoji@gmail.com|
-|Twitter|[@yopinoji](https://twitter.com/yopinoji)|
 
 
 ## Education
@@ -74,7 +73,7 @@ Bachelor of International Liberal Arts
 
 ## Career History
 
-### 2020/10 - Now : Rakuten Mobile, Inc.
+### October 2020 - Now : Rakuten Mobile, Inc.
 
 |key|value|
 |---|-----|
@@ -85,6 +84,7 @@ Bachelor of International Liberal Arts
 
 #### Front-end development of web system for B to B
 
+- October 2020 to March 2021 
 - Front-end development using React.js
 - Building a CI/CD environment
 - Application Technologies
@@ -96,6 +96,7 @@ Bachelor of International Liberal Arts
 
 #### Front-end development of web system for B to C
 
+- April 2021 to Present
 - As Dev lead, also manages engineer team and develops specifications
     - Team Management
     - Code Review
@@ -111,6 +112,7 @@ Bachelor of International Liberal Arts
 
 #### Development of UI components library to be used in the team
 
+- October 2020 to Present
 - Application Technologies
     - React.js
     - TypeScript
@@ -123,7 +125,7 @@ Bachelor of International Liberal Arts
 
 ---
 
-### 2020/05 - 2020/09 : FUNEE Inc.
+### May 2020 - Septembar 2020 : FUNEE Inc.
 
 |key|value|
 |---|-----|
@@ -141,7 +143,6 @@ I was involved in the development of the service during the launch phase.
 - Web app development with Nuxt.js
 - Web app development with React.js
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
-
 - Application Technologies
     - Nuxt.js
     - React.js
@@ -151,7 +152,7 @@ I was involved in the development of the service during the launch phase.
 
 ---
 
-### 2019/12 - 2020/09 : Photoraction Inc.
+### December 2019 - September 2020 : Photoraction Inc.
 
 |key|value|
 |---|-----|
@@ -162,7 +163,7 @@ I was involved in the development of the service during the launch phase.
 
 #### Photoruction development team
 
-I was involved in the development of new functions.
+As Full-stack Web Developers, I was involved in the development of new functions.
 
 - Conversion of jQuey to Vue.js for some features
 - Application technology
@@ -175,7 +176,7 @@ I was involved in the development of new functions.
 
 #### Photoruction Eye development team
 
-I was involved in the development of a new construction BPO business.
+As Full-stack Web Developers, I was involved in the development of a new construction BPO business.
 
 - Web service development from scratch
 - Leading the Development
@@ -196,7 +197,7 @@ I was involved in the development of a new construction BPO business.
 
 ---
 
-### 2019/01 - 2019/08 : Kokochie Inc.
+### January 2019 - August 2019 : Kokochie Inc.
 
 |key|value|
 |---|-----|
@@ -208,13 +209,16 @@ I was involved in the development of a new construction BPO business.
 
 #### Development and operation of web invitation service for weddings
 
-I was involved in front-end development and feature development for the redesign.
+As Full-stack Web Developers, I was involved in development and feature development for the redesign.
 
+- As Full-stack Web Developers
 - Application technology
     - Laravel
     - jQuery
     - Vue.js
     - AWS
+    - HTML5
+    - CSS3
 
 #### Web Site Development
 
@@ -225,6 +229,8 @@ Mainly involved in infrastructure construction and front-end development, with a
     - jQuery
     - Vue.js
     - AWS
+    - HTML5
+    - CSS3
 
 - Clients
     - Yoshinoya (Japanese restaurant)
@@ -234,7 +240,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 ---
 
-### 2017/04 - 2018/12 : JASTEC Inc.
+### April 2017 - December	 2018 : JASTEC Inc.
 
 |key|value|
 |---|-----|
@@ -245,7 +251,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 #### System development under contract
 
-Worked on several projects, mainly from design to implementation.
+Worked on several projects, mainly from design to implementation, also testing.
 
 - Programming Languages
     - PHP
