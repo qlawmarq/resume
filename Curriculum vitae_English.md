@@ -158,7 +158,7 @@ I was involved in the development of the service during the launch phase.
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
-|Business Description||
+|Business Description|IT in the construction field|
 |Number of employees|About 50|
 
 #### Photoruction development team
