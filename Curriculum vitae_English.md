@@ -82,7 +82,7 @@ Bachelor of International Liberal Arts
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
-#### Front-end development of web system for B to B
+#### Front-end development of web system for BtoB MNP services
 
 - October 2020 to March 2021 
 - Front-end development using React.js
@@ -94,7 +94,7 @@ Bachelor of International Liberal Arts
     - Cypress
     - Jest
 
-#### Front-end development of web system for B to C
+#### Front-end development of web system for BtoC Internet services
 
 - April 2021 to Present
 - As Dev lead, also manages engineer team and develops specifications
@@ -113,6 +113,7 @@ Bachelor of International Liberal Arts
 #### Development of UI components library to be used in the team
 
 - October 2020 to Present
+- Development of a library that can be commonly used by all front-end development
 - Application Technologies
     - React.js
     - TypeScript
