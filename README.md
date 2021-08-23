@@ -2,7 +2,9 @@
 
 [![BLOG](https://img.shields.io/badge/BLOG-yopinoji.com-008080)](https://yopinoji.com/)
 <!-- [![TWITTER](https://img.shields.io/badge/Twitter-@yopinoji-1DA1F2)](https://twitter.com/yopinoji)  -->
-[![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-106090)](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdvAjKNgdR8mfWcDLAVxUNg%3D%3D)
+
+[![LAPRAS](https://img.shields.io/badge/LAPRAS-Portfolio-003089)](https://lapras.com/public/DH44BT7)              
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yopinoji&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
