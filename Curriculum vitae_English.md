@@ -269,4 +269,5 @@ Worked on several projects, mainly from design to implementation, also testing.
 ## Extracurricular Activities
 
 ### External Projects.
-[Translation Gatsby.js documents to Japanese](https://github.com/gatsbyjs/gatsby-ja)
+- [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
+- [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021.](https://gihyo.jp/magazine/SD/archive/2021/202106)
