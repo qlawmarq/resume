@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - feature/auto_create_pdf
+      - feature/fix-japanese-pdf
 
 jobs:
   nodejob:
