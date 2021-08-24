@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-      - feature/auto_create_pdf
 
 jobs:
   nodejob:
@@ -21,6 +20,11 @@ jobs:
 
     - name: yarn install
       run: yarn install
+
+    - name: Install ubuntu package
+      run: |
+        sudo apt-get update && sudo apt-get install calibre
+        sudo apt-get install fonts-takao-mincho fonts-takao
 
     - name: Generate PDF
       run: yarn generate
