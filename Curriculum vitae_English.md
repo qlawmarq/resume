@@ -251,7 +251,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 #### System development under contract
 
-Worked on several projects, mainly from design to implementation, also testing.
+Worked on several projects, mainly from design to implementation, developing, also testing.
 
 - Programming Languages
     - PHP
