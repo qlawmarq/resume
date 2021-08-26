@@ -25,6 +25,7 @@ pdf_options:
 |ブログ|[yopinoji.com](https://yopinoji.com/)|
 |メール|yopinoji@gmail.com|
 |GitHub|[yopinoji](https://github.com/yopinoji)|
+|LinkedIn|[Profile](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 |LAPRAS|[Portfolio](https://lapras.com/public/DH44BT7)|
 
 ## 学歴
