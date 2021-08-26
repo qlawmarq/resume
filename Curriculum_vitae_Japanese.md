@@ -270,4 +270,5 @@ pdf_options:
 ## 課外活動
 
 ### 社外プロジェクト
-* [Gatsby js 日本語ドキュメントの翻訳を一部担当](https://github.com/gatsbyjs/gatsby-ja)
+- [Gatsby js 日本語ドキュメントの翻訳を一部担当](https://github.com/gatsbyjs/gatsby-ja)
+- [Software Design 2021年6月号 に開発ツールに関する記事を執筆](https://gihyo.jp/magazine/SD/archive/2021/202106)
