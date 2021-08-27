@@ -18,7 +18,7 @@ pdf_options:
 
 ## Personal Data
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Name|Masaki Yoshiiwa|
 |Birth date|Feburary 12, 1993|
@@ -74,7 +74,7 @@ Bachelor of International Liberal Arts
 
 ### October 2020 - Now : Rakuten Mobile, Inc.
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Occupations|Front-end developer (Dev Lead)|
 |Employment Type|Full-time employee|
@@ -127,7 +127,7 @@ Bachelor of International Liberal Arts
 
 ### May 2020 - Septembar 2020 : FUNEE Inc.
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Occupations|Front-end developer|
 |Employment Type|Contract employee|
@@ -154,7 +154,7 @@ I was involved in the development of the service during the launch phase.
 
 ### December 2019 - September 2020 : Photoraction Inc.
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
@@ -199,7 +199,7 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 
 ### January 2019 - August 2019 : Kokochie Inc.
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
@@ -242,7 +242,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 ### April 2017 - December	 2018 : JASTEC Inc.
 
-|key|value|
+|Title|Description|
 |---|-----|
 |Occupations|Software developer|
 |Employment Type|Full-time employee|
