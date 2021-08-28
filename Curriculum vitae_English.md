@@ -23,7 +23,7 @@ pdf_options:
 |Name|Masaki Yoshiiwa|
 |Birth date|Feburary 12, 1993|
 |GitHub|[yopinoji](https://github.com/yopinoji)|
-|LinkedIn|[LinkedIn URL Link](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
+|LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Email|yopinoji@gmail.com, yoshiiwamasaki@gmail.com|
 
