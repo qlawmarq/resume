@@ -98,6 +98,8 @@ pdf_options:
     - Redux
     - Cypress
     - Jest
+    - HTML5
+    - CSS3
   
 #### ToC 向け Web システムのフロントエンド開発（2021/04 ~）
 
@@ -117,6 +119,8 @@ pdf_options:
     - Redux
     - Cypress
     - Jest
+    - HTML5
+    - CSS3
 
 #### チーム内で共通利用する UI コンポーネントのライブラリ開発（2020/10 ~）
 
@@ -125,6 +129,9 @@ pdf_options:
     - React.js
     - Storybook
     - Cypress
+    - rollup.js
+    - HTML5
+    - CSS3
 
 #### CDNサービス（Akamai）の管理（2021/01 ~）
 
@@ -147,16 +154,17 @@ pdf_options:
 
 サービス立ち上げ期における開発に携わる。
 
-- Nuxt.js による Web アプリ開発
-- React.js での Web アプリ開発
+- ゼロからの Web アプリ開発
+    - 主に管理画面の開発に携わる
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
-
 - 利用技術
     - TypeScript
     - Nuxt.js
     - React.js
     - Firebase
     - GitHub Actions
+    - HTML5
+    - CSS3
 
 ---
 
@@ -173,6 +181,7 @@ pdf_options:
 
 新規機能の開発案件などに携わる。
 
+- PDFなどでのデータ出力用の様々な機能の追加
 - 一部機能での jQuey → Vue.js への書き換え
 - 利用技術
     - Laravel
@@ -181,12 +190,14 @@ pdf_options:
     - AWS Lambda
     - AWS DynamoDB
     - AWS SQS
+    - HTML5
+    - CSS3
 
 #### Photoruction Eye 開発チーム
 
 建設 BPO 事業の新規開発に携わる。
 
-- 0 → 1 でのサービス開発
+- ゼロからの Web サービス開発
 - 開発をリードする立場で関わる
 - 技術選定やアーキテクチャ設計を担当
 - GitHub Actions を用いた自動デプロイ等の CI/CD 環境の構築
@@ -200,6 +211,8 @@ pdf_options:
     - GitHub Actions
     - Auth0
     - AWS
+    - HTML5
+    - CSS3
 
 ---
 
@@ -216,11 +229,15 @@ pdf_options:
 
 デザインリニューアルにおけるフロントエンド業務や、機能追加案件に携わる。
 
+- デザインリニューアルによるフロントエンドの大幅な改修
+- 新機能の追加、バグの修正
 - 利用技術
     - Laravel
     - jQuery
     - Vue.js
     - AWS
+    - HTML5
+    - CSS3
 
 #### Webサイト制作
 
@@ -237,6 +254,8 @@ pdf_options:
     - jQuery
     - Vue.js
     - AWS
+    - HTML5
+    - CSS3
 
 ---
 
