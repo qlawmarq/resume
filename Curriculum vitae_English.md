@@ -49,7 +49,7 @@ Bachelor of International Liberal Arts
 - JavaScript
 - TypeScript
 - CSS
-- HTML
+- HTML5
 - PHP
 
 ### Programming Frameworks
@@ -92,6 +92,8 @@ Bachelor of International Liberal Arts
     - Redux
     - Cypress
     - Jest
+    - HTML5
+    - CSS3
 
 #### Front-end development of web system for BtoC Internet services
 
@@ -108,6 +110,8 @@ Bachelor of International Liberal Arts
     - Redux
     - Cypress
     - Jest
+    - HTML5
+    - CSS3
 
 #### Development of UI components library to be used in the team
 
@@ -118,6 +122,8 @@ Bachelor of International Liberal Arts
     - TypeScript
     - Storybook
     - Cypress
+    - HTML5
+    - CSS3
 
 #### Managing CDN Service (Akamai) Settings
 
@@ -140,15 +146,16 @@ Participate as a side job only on Saturdays.
 
 I was involved in the development of the service during the launch phase.
 
-- Web app development with Nuxt.js
-- Web app development with React.js
+- Web application development from scratch
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application Technologies
-    - Nuxt.js
     - React.js
+    - Nuxt.js
     - TypeScript
     - Firebase
     - GitHub Actions
+    - HTML5
+    - CSS3
 
 ---
 
@@ -173,6 +180,8 @@ As Full-stack Web Developers, I was involved in the development of new functions
     - AWS Lambda
     - AWS DynamoDB
     - AWS SQS
+    - HTML5
+    - CSS3
 
 #### Photoruction Eye development team
 
@@ -183,9 +192,9 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technology
-    - TypeScript
-    - Nuxt.js(TypeScript)
     - React.js
+    - Nuxt.js
+    - TypeScript
     - Hasura GraphQL Engine
     - Apollo Client
     - URQL
@@ -193,7 +202,8 @@ As Full-stack Web Developers, I was involved in the development of a new constru
     - GitHub Actions
     - Auth0
     - AWS
-
+    - HTML5
+    - CSS3
 
 ---
 
