@@ -122,6 +122,7 @@ Bachelor of International Liberal Arts
     - TypeScript
     - Storybook
     - Cypress
+    - rollup.js
     - HTML5
     - CSS3
 
@@ -147,6 +148,7 @@ Participate as a side job only on Saturdays.
 I was involved in the development of the service during the launch phase.
 
 - Web application development from scratch
+    - Mainly, Development of the administration system.
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application Technologies
     - React.js
@@ -172,6 +174,7 @@ I was involved in the development of the service during the launch phase.
 
 As Full-stack Web Developers, I was involved in the development of new functions.
 
+- Added various features for data output in Pdf, etc.
 - Conversion of jQuey to Vue.js for some features
 - Application technology
     - Laravel
@@ -222,6 +225,8 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 As Full-stack Web Developers, I was involved in development and feature development for the redesign.
 
 - As Full-stack Web Developers
+- Major front-end renovation due to design renewal
+- Added new features, fixed bugs
 - Application technology
     - Laravel
     - jQuery
