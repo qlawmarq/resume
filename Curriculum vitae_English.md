@@ -221,9 +221,9 @@ As Full-stack Web Developers, I was involved in the development of a new constru
     - React.js
     - Nuxt.js
     - TypeScript
+    - GraphQL
     - Hasura GraphQL Engine
     - Apollo Client
-    - URQL
     - PostgreSQL
     - GitHub Actions
     - Auth0
