@@ -27,6 +27,12 @@ pdf_options:
 |Blog|[yopinoji.com](https://yopinoji.com/)|
 |Email|yopinoji@gmail.com, yoshiiwamasaki@gmail.com|
 
+## Summary
+
+Frontend Developer, also Web Developwer with a demonstrated history of working in the several industry.
+Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Laravel, etc.
+Eager to learn new technology, eager to implement difficult feature.
+Also, Eager to implement the design. One of the sites I worked on won Good Design Award.
 
 ## Education
 
@@ -116,7 +122,7 @@ Bachelor of International Liberal Arts
 #### Development of UI components library to be used in the team
 
 - October 2020 to Present
-- Development of a library that can be commonly used by all front-end development
+- Developed library that can be commonly used by all front-end development team
 - Application Technologies
     - React.js
     - TypeScript
@@ -146,9 +152,12 @@ Participate as a side job only on Saturdays.
 #### Fashion Platform Business 
 
 I was involved in the development of the service during the launch phase.
+Also, Involved in human resources by introducing developers I know.
+
+##### Responsibilities and experience and achievement
 
 - Web application development from scratch
-    - Mainly, Development of the administration system.
+    - Mainly, Developed administration system for all application
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application Technologies
     - React.js
@@ -174,8 +183,11 @@ I was involved in the development of the service during the launch phase.
 
 As Full-stack Web Developers, I was involved in the development of new functions.
 
-- Added various features for data output in Pdf, etc.
-- Conversion of jQuey to Vue.js for some features
+##### Responsibilities and experience and achievement
+
+- Added various features, fixed bugs.
+- Experience in developing PDF generation function from large volume databases
+- Experience in developing a function that allows users to download more than 1000 images in one ZIP file.
 - Application technology
     - Laravel
     - Vue.js
@@ -190,8 +202,9 @@ As Full-stack Web Developers, I was involved in the development of new functions
 
 As Full-stack Web Developers, I was involved in the development of a new construction BPO business.
 
+##### Responsibilities and experience and achievement
+
 - Web service development from scratch
-- Leading the Development
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technology
@@ -224,9 +237,10 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 
 As Full-stack Web Developers, I was involved in development and feature development for the redesign.
 
-- As Full-stack Web Developers
-- Major front-end renovation due to design renewal
-- Added new features, fixed bugs
+##### Responsibilities and experience
+
+- As Full-stack Web Developers, added new features, also fixed bugs
+- Experience in replacing an entire design of a web application while maintaining its functionality.
 - Application technology
     - Laravel
     - jQuery
@@ -235,10 +249,17 @@ As Full-stack Web Developers, I was involved in development and feature developm
     - HTML5
     - CSS3
 
-#### Web Site Development
+##### Achievement
 
-Mainly involved in infrastructure construction and front-end development, with a focus on commissioned web development.
+- [Received the Good Design Award 2019 for the website I implemented all design](https://www.g-mark.org/award/describe/49616?token=1TEwWzgC1m)
 
+#### Commercial Web Site Development
+
+Mainly involved in infrastructure construction and front-end development, with a focus on commercial web site development.
+
+##### Responsibilities and experience and achievement
+
+- Developed at least one commercial website per month
 - Application technology
     - WordPress
     - jQuery
@@ -252,6 +273,7 @@ Mainly involved in infrastructure construction and front-end development, with a
     - The Nippon Foundation Paralympic Support Center
     - OLIVIERS&CO
     - L'Occitane Japon
+    - etc
 
 ---
 
@@ -268,17 +290,17 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 Worked on several projects, mainly from design to implementation, developing, also testing.
 
+##### Responsibilities and experience and achievement
+
+- Experience in developing a system for managing deliveries used by a major shipping company
+- Experience in developing web applications for stock orders for major stock company
+- Experience in developing applications for insurance enrollment for a major insurance company
 - Programming Languages
     - PHP
     - JavaScript
     - C#
     - Java
-
-- Clients
-    - Major insurance company
-    - Major transportation company
-    - Major brokerage company
-
+ 
 ---
 
 ## Extracurricular Activities
