@@ -47,7 +47,8 @@ Bachelor of International Liberal Arts
 - Japanese
   - Native speaker
 - English
-  - I studied abroad for half a year when I was a student.
+  - Conversational
+  - I studied in US for half a year when I was a student.
   - TOEIC Score 720
 
 ### Programming Language
