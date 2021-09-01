@@ -29,10 +29,10 @@ pdf_options:
 
 ## Summary
 
-Frontend Developer, also Web Developwer with a demonstrated history of working in the several industry.
-Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Laravel, etc.
-Eager to learn new technology, eager to implement difficult feature.
-Also, Eager to implement the design. One of the sites I worked on won Good Design Award.
+Frontend Developer, also Web Developwer with a demonstrated history of working in the several industry.  
+Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Laravel, etc.  
+Eager to learn new technology, eager to implement difficult feature.  
+Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
 
 ## Education
 
