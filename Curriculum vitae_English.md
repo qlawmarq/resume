@@ -66,6 +66,12 @@ Bachelor of International Liberal Arts
 - Gatsby.js
 - Laravel
 
+### Cloud Computing Services
+
+- AWS
+- GCP
+- Firebase
+
 ### Testing Frameworks
 
 - Cypress
@@ -100,6 +106,7 @@ Bachelor of International Liberal Arts
     - Jest
     - HTML5
     - CSS3
+    - GCP
 
 #### Front-end development of web system for BtoC Internet services
 
@@ -118,6 +125,7 @@ Bachelor of International Liberal Arts
     - Jest
     - HTML5
     - CSS3
+    - GCP
 
 #### Development of UI components library to be used in the team
 
@@ -131,6 +139,7 @@ Bachelor of International Liberal Arts
     - rollup.js
     - HTML5
     - CSS3
+    - GCP
 
 #### Managing CDN Service (Akamai) Settings
 
