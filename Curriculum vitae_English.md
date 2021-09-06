@@ -157,7 +157,7 @@ Bachelor of International Liberal Arts
 |Title|Description|
 |---|-----|
 |Occupations|Front-end developer|
-|Employment Type|Contract employee|
+|Employment Type|Freelance employee|
 |Business Description|Fashion Platform Business|
 |Number of employees|About 10|
 
