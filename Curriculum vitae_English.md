@@ -174,8 +174,8 @@ Also, Involved in human resources by introducing developers I know.
     - Mainly, Developed administration system for all application
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application Technologies
-    - React.js
-    - Nuxt.js
+    - React.js(React Native)
+    - Nuxt.js(Vue.js)
     - TypeScript
     - Firebase
     - GitHub Actions
