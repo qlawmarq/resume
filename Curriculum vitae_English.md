@@ -29,7 +29,7 @@ pdf_options:
 
 ## Summary
 
-Frontend Developer, also Web Developwer with a demonstrated history of working in the several industry.  
+Frontend Developer, also Web Developer with a demonstrated history of working in several industries.  
 Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Laravel, etc.  
 Eager to learn new technology, eager to implement difficult feature.  
 Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
