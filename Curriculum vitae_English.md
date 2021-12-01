@@ -38,7 +38,7 @@ Also, Eager to implement web design. One of the sites I worked on won Good Desig
 
 Apr 2012 – Mar 2017  
 Yokohama City University, Japan  
-Bachelor of International Liberal Arts  
+bachelor's degree
 
 ## Skill
 
@@ -49,7 +49,6 @@ Bachelor of International Liberal Arts
 - English
   - Conversational
   - I studied in US for half a year when I was a student.
-  - TOEIC Score 720
 
 ### Programming Language
 
@@ -61,10 +60,12 @@ Bachelor of International Liberal Arts
 
 ### Programming Frameworks
 
-- React.js
-- Vue.js
-- Nuxt.js
-- Gatsby.js
+- React
+- Vue
+- Angular
+- Native Script
+- Nuxt
+- Gatsby
 - Laravel
 
 ### Cloud Computing Services
@@ -95,6 +96,7 @@ Bachelor of International Liberal Arts
 |---|-----|
 |Occupations|Front-end developer (Dev Lead)|
 |Employment Type|Full-time employee|
+|Location|Tokyo, Japan|
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
@@ -158,6 +160,7 @@ Bachelor of International Liberal Arts
 |---|-----|
 |Occupations|Front-end developer|
 |Employment Type|Freelance employee|
+|Location|Tokyo, Japan|
 |Business Description|Fashion Platform Business|
 |Number of employees|About 10|
 
@@ -190,6 +193,7 @@ Also, Involved in human resources by introducing developers I know.
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
+|Location|Tokyo, Japan|
 |Business Description|IT in the construction field|
 |Number of employees|About 50|
 
@@ -243,6 +247,7 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 |---|-----|
 |Occupations|Web developer|
 |Employment Type|Full-time employee|
+|Location|Tokyo, Japan|
 |Business Description|Website development, Web media and SaaS development|
 |Number of employees|About 25|
 
@@ -297,6 +302,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 |---|-----|
 |Occupations|Software developer|
 |Employment Type|Full-time employee|
+|Location|Tokyo, Japan|
 |Business Description|System development|
 |Number of employees|About 1,000|
 
