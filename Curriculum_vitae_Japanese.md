@@ -41,8 +41,8 @@ pdf_options:
 - 日本語
   - ネイティブ
 - 英語
+  - ビジネスレベル
   - 学生時代に半年ほど留学経験あり
-  - TOEIC 720 点
 
 ### プログラミング言語
 
@@ -51,13 +51,16 @@ pdf_options:
 - CSS
 - HTML
 - PHP
+- Python
 
 ### 開発フレームワーク
 
-- React.js
-- Vue.js
-- Nuxt.js
-- Gatsby.js
+- React
+- Vue
+- Angular
+- Nuxt
+- Gatsby
+- FastAPI
 - Laravel
 
 ### UI コンポーネント
