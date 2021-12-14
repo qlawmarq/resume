@@ -24,8 +24,7 @@ pdf_options:
 |Birth date|Feburary 12, 1993|
 |GitHub|[yopinoji](https://github.com/yopinoji)|
 |LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
-|Blog|[yopinoji.com](https://yopinoji.com/)|
-|Email|yopinoji@gmail.com, yoshiiwamasaki@gmail.com|
+|Email|yoshiiwamasaki@gmail.com|
 
 ## Summary
 
