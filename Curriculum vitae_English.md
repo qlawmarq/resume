@@ -22,7 +22,7 @@ pdf_options:
 |---|-----|
 |Name|Masaki Yoshiiwa|
 |Birth date|Feburary 12, 1993|
-|GitHub|[yopinoji](https://github.com/yopinoji)|
+|GitHub|[masaiborg](https://github.com/masaiborg)|
 |LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 |Email|yoshiiwamasaki@gmail.com|
 
@@ -47,7 +47,6 @@ bachelor's degree
   - Native speaker
 - English
   - Conversational
-  - I studied in US for half a year when I was a student.
 
 ### Programming Language
 
@@ -124,7 +123,7 @@ bachelor's degree
 - Front-end development using React.js
 - Building a CI/CD environment
 - Application Technologies
-    - React.js
+    - React
     - TypeScript
     - Redux
     - Cypress
@@ -138,7 +137,7 @@ bachelor's degree
 - October 2020 to Present
 - Developed library that can be commonly used by all front-end development team
 - Application Technologies
-    - React.js
+    - React
     - TypeScript
     - Storybook
     - Cypress
@@ -173,11 +172,11 @@ Also, Involved in human resources by introducing developers I know.
 ##### Responsibilities and experience and achievement
 
 - Web application development from scratch
-    - Mainly, Developed administration system for all application
-- Building a CI/CD environment with GitHub Actions for automatic deployment and more
+    - Mainly, Developed administration system for application
+- Building a CI/CD environment with GitHub Actions for automatic deployment
 - Application Technologies
-    - React.js(React Native)
-    - Nuxt.js(Vue.js)
+    - React(React Native)
+    - Nuxt(Vue)
     - TypeScript
     - Firebase
     - GitHub Actions
@@ -207,7 +206,7 @@ As Full-stack Web Developers, I was involved in the development of new functions
 - Experience in developing a function that allows users to download more than 1000 images in one ZIP file.
 - Application technology
     - Laravel
-    - Vue.js
+    - Vue
     - jQuery
     - AWS Lambda
     - AWS DynamoDB
@@ -225,8 +224,8 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technology
-    - React.js
-    - Nuxt.js
+    - React
+    - Nuxt(Vue)
     - TypeScript
     - GraphQL
     - Hasura GraphQL Engine
@@ -262,7 +261,7 @@ As Full-stack Web Developers, I was involved in development and feature developm
 - Application technology
     - Laravel
     - jQuery
-    - Vue.js
+    - Vue
     - AWS
     - HTML5
     - CSS3
@@ -281,7 +280,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 - Application technology
     - WordPress
     - jQuery
-    - Vue.js
+    - Vue
     - AWS
     - HTML5
     - CSS3
@@ -311,9 +310,9 @@ Worked on several projects, mainly from design to implementation, developing, al
 
 ##### Responsibilities and experience and achievement
 
-- Experience in developing a system for managing deliveries used by a major shipping company
-- Experience in developing web applications for stock orders for major stock company
-- Experience in developing applications for insurance enrollment for a major insurance company
+- Experience in developing a system for managing deliveries used by a major shipping company in Japan
+- Experience in developing web applications for stock orders for major stock company in Japan
+- Experience in developing applications for insurance enrollment for a major insurance company in Japan
 - Programming Languages
     - PHP
     - JavaScript
