@@ -55,16 +55,18 @@ bachelor's degree
 - CSS
 - HTML5
 - PHP
+- Python
 
 ### Programming Frameworks
 
 - React
 - Vue
 - Angular
-- Native Script
+- React Native
 - Nuxt
 - Gatsby
 - Laravel
+- FastAPI
 
 ### Cloud Computing Services
 
@@ -80,7 +82,6 @@ bachelor's degree
 ### CI/CD
 
 - GitHub Actions
-- Jenkins
 
 ### Container engines
 
