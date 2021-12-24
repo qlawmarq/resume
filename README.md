@@ -2,4 +2,8 @@
 
 <!-- [![CV](https://img.shields.io/badge/CV-Masaki_Yoshiiwa-501070)](https://github.com/masaiborg/masaiborg/raw/master/Curriculum%20vitae_English.pdf) -->
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masaiborg&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masaiborg&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masaiborg&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masaiborg&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masaiborg&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masaiborg&theme=solarized_dark)
