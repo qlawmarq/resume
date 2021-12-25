@@ -22,9 +22,8 @@ pdf_options:
 |---|-----|
 |名前|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
 |生年月日|1993/02/12|
-|ブログ|[yopinoji.com](https://yopinoji.com/)|
-|メール|yopinoji@gmail.com|
-|GitHub|[yopinoji](https://github.com/yopinoji)|
+|メール|yoshiiwamasaki@gmail.com|
+|GitHub|[masaiborg](https://github.com/masaiborg)|
 |LinkedIn|[Profile](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 
 ## 学歴
