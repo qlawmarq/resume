@@ -21,7 +21,6 @@ pdf_options:
 |Title|Description|
 |---|-----|
 |Name|Masaki Yoshiiwa|
-|Birth date|Feburary 12, 1993|
 |GitHub|[masaiborg](https://github.com/masaiborg)|
 |LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 |Email|yoshiiwamasaki@gmail.com|
