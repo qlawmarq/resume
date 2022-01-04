@@ -103,17 +103,17 @@ bachelor's degree
 
 - Development of web application, and mobile native application from scratch
 - Application Technologies of mobile application
-    - TypeScript
-    - React Native
-    - Redux
-    - Expo
+  - TypeScript
+  - React Native
+  - Redux
+  - Expo
 - Application Technologies of web application
-    - Python
-    - TypeScript
-    - FastAPI
-    - Angular
-    - TailwindCSS
-    - GCP
+  - Python
+  - TypeScript
+  - FastAPI
+  - Angular
+  - TailwindCSS
+  - GCP
 
 ---
 
@@ -133,47 +133,47 @@ bachelor's degree
 - Frontend development using React.js
 - Building a CI/CD environment
 - Application Technologies
-    - React.js
-    - TypeScript
-    - Redux
-    - Cypress
-    - Jest
-    - HTML5
-    - CSS3
-    - GCP
+  - React.js
+  - TypeScript
+  - Redux
+  - Cypress
+  - Jest
+  - HTML5
+  - CSS3
+  - GCP
 
 #### Frontend development of web system for BtoC Internet services
 
 - April 2021 to Present
 - As Dev lead, also manages engineer team and develops specifications
-    - Team Management
-    - Code Review
-    - Adjust specifications and check implementation
+  - Team Management
+  - Code Review
+  - Adjust specifications and check implementation
 - Frontend development using React.js
 - Building a CI/CD environment
 - Application Technologies
-    - React
-    - TypeScript
-    - Redux
-    - Cypress
-    - Jest
-    - HTML5
-    - CSS3
-    - GCP
+  - React
+  - TypeScript
+  - Redux
+  - Cypress
+  - Jest
+  - HTML5
+  - CSS3
+  - GCP
 
 #### Development of UI components library to be used in the team
 
 - October 2020 to Present
 - Developed library that can be commonly used by all front-end development team
 - Application Technologies
-    - React
-    - TypeScript
-    - Storybook
-    - Cypress
-    - rollup.js
-    - HTML5
-    - CSS3
-    - GCP
+  - React
+  - TypeScript
+  - Storybook
+  - Cypress
+  - rollup.js
+  - HTML5
+  - CSS3
+  - GCP
 
 #### Managing CDN Service (Akamai) Settings
 
@@ -201,16 +201,16 @@ Also, Involved in human resources by introducing developers I know.
 ##### Responsibilities and experience and achievement
 
 - Web application development from scratch
-    - Mainly, Developed administration system for application
+  - Mainly, Developed administration system for application
 - Building a CI/CD environment with GitHub Actions for automatic deployment
 - Application technologies
-    - React Native
-    - Nuxt(Vue)
-    - TypeScript
-    - Firebase
-    - GitHub Actions
-    - HTML5
-    - CSS3
+  - React Native
+  - Nuxt(Vue)
+  - TypeScript
+  - Firebase
+  - GitHub Actions
+  - HTML5
+  - CSS3
 
 ---
 
@@ -234,14 +234,14 @@ As Full-stack Web Developers, I was involved in the development of new functions
 - Experience in developing PDF generation function from large volume databases
 - Experience in developing a function that allows users to download more than 1000 images in one ZIP file.
 - Application technologies
-    - Laravel
-    - Vue
-    - jQuery
-    - AWS Lambda
-    - AWS DynamoDB
-    - AWS SQS
-    - HTML5
-    - CSS3
+  - Laravel
+  - Vue
+  - jQuery
+  - AWS Lambda
+  - AWS DynamoDB
+  - AWS SQS
+  - HTML5
+  - CSS3
 
 #### Photoruction Eye development team
 
@@ -253,18 +253,18 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
 - Application technologies
-    - React
-    - Nuxt(Vue)
-    - TypeScript
-    - GraphQL
-    - Hasura GraphQL Engine
-    - Apollo Client
-    - PostgreSQL
-    - GitHub Actions
-    - Auth0
-    - AWS
-    - HTML5
-    - CSS3
+  - React
+  - Nuxt(Vue)
+  - TypeScript
+  - GraphQL
+  - Hasura GraphQL Engine
+  - Apollo Client
+  - PostgreSQL
+  - GitHub Actions
+  - Auth0
+  - AWS
+  - HTML5
+  - CSS3
 
 ---
 
@@ -288,12 +288,12 @@ As Full-stack Web Developers, I was involved in development and feature developm
 - As Full-stack Web Developers, added new features, also fixed bugs
 - Experience in replacing an entire design of a web application while maintaining its functionality.
 - Application technologies
-    - Laravel
-    - jQuery
-    - Vue
-    - AWS
-    - HTML5
-    - CSS3
+  - Laravel
+  - jQuery
+  - Vue
+  - AWS
+  - HTML5
+  - CSS3
 
 ##### Achievement
 
@@ -307,19 +307,19 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 - Developed at least one commercial website per month
 - Application technologies
-    - WordPress
-    - jQuery
-    - Vue
-    - AWS
-    - HTML5
-    - CSS3
+  - WordPress
+  - jQuery
+  - Vue
+  - AWS
+  - HTML5
+  - CSS3
 
 - Clients
-    - Yoshinoya (Japanese restaurant)
-    - The Nippon Foundation Paralympic Support Center
-    - OLIVIERS&CO
-    - L'Occitane Japon
-    - etc
+  - Yoshinoya (Japanese restaurant)
+  - The Nippon Foundation Paralympic Support Center
+  - OLIVIERS&CO
+  - L'Occitane Japon
+  - etc
 
 ---
 
@@ -338,25 +338,25 @@ Worked on several projects, mainly from design to implementation, developing, al
 #### Development of a delivery management system for a major shipping company in Japan
 
 - Application technologies
-    - C#
-    - .NET
-    - JavaScript
-    - HTML
-    - CSS
+  - C#
+  - .NET
+  - JavaScript
+  - HTML
+  - CSS
 
 #### Web application development for stock orders for a major securities company in Japan
 
 - Programming Languages
-    - C#
-    - .NET
+  - C#
+  - .NET
 
 #### Development of a system for purchasing insurance for a major insurance company in Japan
 
 - Programming Languages
-    - Java
-    - JavaScript
-    - HTML
-    - CSS
+  - Java
+  - JavaScript
+  - HTML
+  - CSS
 
 ---
 
