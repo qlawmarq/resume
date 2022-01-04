@@ -104,7 +104,8 @@ bachelor's degree
 - Development of web application, and mobile native application from scratch
 - Application Technologies of mobile application
     - TypeScript
-    - ReactNative
+    - React Native
+    - Redux
     - Expo
 - Application Technologies of web application
     - Python
