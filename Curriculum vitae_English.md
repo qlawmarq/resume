@@ -14,7 +14,7 @@ pdf_options:
     </section>
 ---
 
-# Curriculum-Vitae
+# Masaki Yoshiiwa
 
 ## Personal Data
 
@@ -88,20 +88,46 @@ bachelor's degree
 
 ## Career History
 
-### October 2020 - Now : Rakuten Mobile, Inc.
+### October 2021 - Now : Panthos Cloud Consulting
 
 |Title|Description|
 |---|-----|
-|Occupations|Front-end developer (Dev Lead)|
+|Occupations|Senior software developer, Frontend developer|
+|Employment Type|Full-time employee|
+|Location|Gold Coast, Australia|
+|Business Description|Building software to help businesses scale.|
+|Number of employees|About 10|
+
+#### System development for field operatives and project managers
+
+- Development of web application, and mobile native application from scratch
+- Application Technologies of mobile application
+    - TypeScript
+    - ReactNative
+    - Expo
+- Application Technologies of web application
+    - Python
+    - TypeScript
+    - FastAPI
+    - Angular
+    - TailwindCSS
+    - GCP
+
+
+### October 2020 - October 2021 : Rakuten Mobile, Inc.
+
+|Title|Description|
+|---|-----|
+|Occupations|Frontend developer (Dev Lead)|
 |Employment Type|Full-time employee|
 |Location|Tokyo, Japan|
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
 |Number of employees|Over 1000|
 
-#### Front-end development of web system for BtoB MNP services
+#### Frontend development of web system for BtoB MNP services
 
 - October 2020 to March 2021 
-- Front-end development using React.js
+- Frontend development using React.js
 - Building a CI/CD environment
 - Application Technologies
     - React.js
@@ -113,14 +139,14 @@ bachelor's degree
     - CSS3
     - GCP
 
-#### Front-end development of web system for BtoC Internet services
+#### Frontend development of web system for BtoC Internet services
 
 - April 2021 to Present
 - As Dev lead, also manages engineer team and develops specifications
     - Team Management
     - Code Review
     - Adjust specifications and check implementation
-- Front-end development using React.js
+- Frontend development using React.js
 - Building a CI/CD environment
 - Application Technologies
     - React
@@ -156,7 +182,7 @@ bachelor's degree
 
 |Title|Description|
 |---|-----|
-|Occupations|Front-end developer|
+|Occupations|Frontend developer|
 |Employment Type|Freelance employee|
 |Location|Tokyo, Japan|
 |Business Description|Fashion Platform Business|
