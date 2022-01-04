@@ -27,8 +27,8 @@ pdf_options:
 
 ## Summary
 
-Frontend Developer, also Web Developer with a demonstrated history of working in several industries.  
-Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Laravel, etc.  
+Frontend developer, also Software developer with a demonstrated history of working in several industries.  
+Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Python, etc.  
 Eager to learn new technology, eager to implement difficult feature.  
 Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
 
@@ -59,6 +59,7 @@ bachelor's degree
 ### Programming Frameworks
 
 - React
+- React Native
 - Vue
 - Angular
 - React Native
@@ -113,6 +114,7 @@ bachelor's degree
     - TailwindCSS
     - GCP
 
+---
 
 ### October 2020 - October 2021 : Rakuten Mobile, Inc.
 
@@ -200,8 +202,8 @@ Also, Involved in human resources by introducing developers I know.
 - Web application development from scratch
     - Mainly, Developed administration system for application
 - Building a CI/CD environment with GitHub Actions for automatic deployment
-- Application Technologies
-    - React(React Native)
+- Application technologies
+    - React Native
     - Nuxt(Vue)
     - TypeScript
     - Firebase
@@ -230,7 +232,7 @@ As Full-stack Web Developers, I was involved in the development of new functions
 - Added various features, fixed bugs.
 - Experience in developing PDF generation function from large volume databases
 - Experience in developing a function that allows users to download more than 1000 images in one ZIP file.
-- Application technology
+- Application technologies
     - Laravel
     - Vue
     - jQuery
@@ -249,7 +251,7 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 - Web service development from scratch
 - Lead on technology selection and architecture design
 - Building a CI/CD environment with GitHub Actions for automatic deployment and more
-- Application technology
+- Application technologies
     - React
     - Nuxt(Vue)
     - TypeScript
@@ -284,7 +286,7 @@ As Full-stack Web Developers, I was involved in development and feature developm
 
 - As Full-stack Web Developers, added new features, also fixed bugs
 - Experience in replacing an entire design of a web application while maintaining its functionality.
-- Application technology
+- Application technologies
     - Laravel
     - jQuery
     - Vue
@@ -303,7 +305,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 ##### Responsibilities and experience and achievement
 
 - Developed at least one commercial website per month
-- Application technology
+- Application technologies
     - WordPress
     - jQuery
     - Vue
@@ -330,21 +332,31 @@ Mainly involved in infrastructure construction and front-end development, with a
 |Business Description|System development|
 |Number of employees|About 1,000|
 
-#### System development under contract
-
 Worked on several projects, mainly from design to implementation, developing, also testing.
 
-##### Responsibilities and experience and achievement
+#### Development of a delivery management system for a major shipping company in Japan
 
-- Experience in developing a system for managing deliveries used by a major shipping company in Japan
-- Experience in developing web applications for stock orders for major stock company in Japan
-- Experience in developing applications for insurance enrollment for a major insurance company in Japan
-- Programming Languages
-    - PHP
-    - JavaScript
+- Application technologies
     - C#
+    - .NET
+    - JavaScript
+    - HTML
+    - CSS
+
+#### Web application development for stock orders for a major Japanese securities company
+
+- Programming Languages
+    - C#
+    - .NET
+
+#### Development of a system for purchasing insurance for a major domestic insurance company
+
+- Programming Languages
     - Java
- 
+    - JavaScript
+    - HTML
+    - CSS
+
 ---
 
 ## Extracurricular Activities
