@@ -344,13 +344,13 @@ Worked on several projects, mainly from design to implementation, developing, al
     - HTML
     - CSS
 
-#### Web application development for stock orders for a major Japanese securities company
+#### Web application development for stock orders for a major securities company in Japan
 
 - Programming Languages
     - C#
     - .NET
 
-#### Development of a system for purchasing insurance for a major domestic insurance company
+#### Development of a system for purchasing insurance for a major insurance company in Japan
 
 - Programming Languages
     - Java
