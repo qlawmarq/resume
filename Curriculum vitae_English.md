@@ -28,6 +28,7 @@ pdf_options:
 ## Summary
 
 Frontend developer, also Software developer with a demonstrated history of working in several industries.  
+Specialized in web application and mobile application development.  
 Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Python, etc.  
 Eager to learn new technology, eager to implement difficult feature.  
 Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
