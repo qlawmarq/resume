@@ -100,8 +100,9 @@ bachelor's degree
 |Business Description|Building software to help businesses scale.|
 |Number of employees|About 10|
 
-#### Development of software for field operatives and project managers of affiliated companies
+#### Development of FieldStream app
 
+- Software for field operatives and project managers of affiliated companies
 - Development of web application, and mobile native application from scratch
 - Application Technologies of mobile application
   - TypeScript
