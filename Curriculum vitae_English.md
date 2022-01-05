@@ -100,7 +100,7 @@ bachelor's degree
 |Business Description|Building software to help businesses scale.|
 |Number of employees|About 10|
 
-#### System development for field operatives and project managers
+#### Development of software for field operatives and project managers of affiliated companies
 
 - Development of web application, and mobile native application from scratch
 - Application Technologies of mobile application
