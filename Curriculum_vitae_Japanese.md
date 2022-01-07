@@ -218,6 +218,8 @@ pdf_options:
 - PDFなどでのデータ出力用の様々な機能の追加
 - 一部機能での jQuey → Vue.js への書き換え
 - 利用技術
+  - PHP
+  - JavaScript
   - Laravel
   - Vue.js
   - jQuery
@@ -267,6 +269,8 @@ pdf_options:
 - デザインリニューアルによるフロントエンドの大幅な改修
 - 新機能の追加、バグの修正
 - 利用技術
+  - PHP
+  - JavaScript
   - Laravel
   - jQuery
   - Vue.js
@@ -285,6 +289,8 @@ pdf_options:
   - ロクシタンジャポン
 
 - 利用技術
+  - PHP
+  - JavaScript
   - WordPress
   - jQuery
   - Vue.js
@@ -313,6 +319,7 @@ pdf_options:
 
 - 利用言語
   - Java
+  - PHP
   - JavaScript
   
 #### 大手証券会社の証券取引システムの改修
