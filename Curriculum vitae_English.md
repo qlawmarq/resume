@@ -104,6 +104,8 @@ bachelor's degree
 
 - Software for field operatives and project managers of affiliated companies
 - Development of web application, and development of mobile native application from scratch
+- Code reviews
+- Building a CI/CD Workflow with GitHub Actions for automated deployment
 - Application Technologies of mobile application
   - TypeScript
   - React Native
@@ -145,7 +147,7 @@ bachelor's degree
 
 - October 2020 to March 2021 
 - Frontend development using React.js
-- Building a CI/CD environment
+- Building a CI/CD Workflow
 - Application Technologies
   - React
   - TypeScript
@@ -164,7 +166,7 @@ bachelor's degree
   - Code Review
   - Adjust specifications and check implementation
 - Frontend development using React.js
-- Building a CI/CD environment
+- Building a CI/CD Workflow
 - Application Technologies
   - React
   - TypeScript
@@ -216,7 +218,7 @@ Also, Involved in human resources by introducing developers I know.
 
 - Web application development from scratch
   - Mainly, Developed administration system for application
-- Building a CI/CD environment with GitHub Actions for automatic deployment
+- Building a CI/CD Workflow with GitHub Actions for automated deployment
 - Application technologies
   - React Native
   - Nuxt(Vue)
@@ -265,7 +267,7 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 
 - Web service development from scratch
 - Lead on technology selection and architecture design
-- Building a CI/CD environment with GitHub Actions for automatic deployment and more
+- Building a CI/CD environment with GitHub Actions for automated deployment and more
 - Application technologies
   - React
   - Nuxt(Vue)
