@@ -94,7 +94,7 @@ bachelor's degree
 
 |Title|Description|
 |---|-----|
-|Occupations|Senior software developer, Frontend developer|
+|Job Title|Senior software developer, Frontend developer|
 |Employment Type|Full-time employee|
 |Location|Gold Coast, Australia|
 |Business Description|Building software to help businesses scale.|
@@ -137,7 +137,7 @@ bachelor's degree
 
 |Title|Description|
 |---|-----|
-|Occupations|Frontend developer (Dev Lead)|
+|Job Title|Frontend developer (Dev Lead)|
 |Employment Type|Full-time employee|
 |Location|Tokyo, Japan|
 |Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
@@ -201,7 +201,7 @@ bachelor's degree
 
 |Title|Description|
 |---|-----|
-|Occupations|Frontend developer|
+|Job Title|Frontend developer|
 |Employment Type|Freelance employee|
 |Location|Tokyo, Japan|
 |Business Description|Fashion Platform Business|
@@ -234,7 +234,7 @@ Also, Involved in human resources by introducing developers I know.
 
 |Title|Description|
 |---|-----|
-|Occupations|Web developer|
+|Job Title|Web developer|
 |Employment Type|Full-time employee|
 |Location|Tokyo, Japan|
 |Business Description|IT in the construction field|
@@ -288,7 +288,7 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 
 |Title|Description|
 |---|-----|
-|Occupations|Web developer|
+|Job Title|Web developer|
 |Employment Type|Full-time employee|
 |Location|Tokyo, Japan|
 |Business Description|Website development, Web media and SaaS development|
@@ -343,7 +343,7 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 |Title|Description|
 |---|-----|
-|Occupations|Software developer|
+|Job Title|Software developer|
 |Employment Type|Full-time employee|
 |Location|Tokyo, Japan|
 |Business Description|System development|
