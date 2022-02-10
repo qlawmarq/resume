@@ -29,7 +29,7 @@ pdf_options:
 
 Frontend developer, also Software developer with a demonstrated history of working in several industries.  
 Specialized in web application and mobile application development.  
-Skilled in React, Vue.js, JavaScript, TypeScript, HTML, CSS, also PHP, Python, etc.  
+Skilled in React, Vue.js, TypeScript, JavaScripr, HTML, CSS, also PHP, Python, etc.  
 Eager to learn new technology, eager to implement difficult feature.  
 Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
 
@@ -46,14 +46,14 @@ bachelor's degree
 - Japanese
   - Native speaker
 - English
-  - Conversational
+  - Business working proficiency
 
 ### Programming Language
 
-- JavaScript
 - TypeScript
+- JavaScript
 - CSS
-- HTML5
+- HTML
 - PHP
 - Python
 
@@ -63,8 +63,8 @@ bachelor's degree
 - React Native
 - Vue
 - Angular
-- React Native
 - Nuxt
+- Next.js
 - Gatsby
 - Laravel
 - FastAPI
@@ -103,12 +103,24 @@ bachelor's degree
 #### Development of FieldStream app
 
 - Software for field operatives and project managers of affiliated companies
-- Development of web application, and mobile native application from scratch
+- Development of web application, and development of mobile native application from scratch
 - Application Technologies of mobile application
   - TypeScript
   - React Native
   - Redux
   - Expo
+- Application Technologies of web application
+  - Python
+  - TypeScript
+  - FastAPI
+  - Angular
+  - TailwindCSS
+  - GCP
+
+#### Development of an automated car loan application
+
+- Software for car loan applicants and review companies
+- Development of web application
 - Application Technologies of web application
   - Python
   - TypeScript
@@ -135,7 +147,7 @@ bachelor's degree
 - Frontend development using React.js
 - Building a CI/CD environment
 - Application Technologies
-  - React.js
+  - React
   - TypeScript
   - Redux
   - Cypress
