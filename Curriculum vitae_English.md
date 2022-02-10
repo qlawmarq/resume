@@ -145,7 +145,6 @@ bachelor's degree
 
 #### Frontend development of web system for BtoB MNP services
 
-- October 2020 to March 2021 
 - Frontend development using React.js
 - Building a CI/CD Workflow
 - Application Technologies
@@ -160,7 +159,6 @@ bachelor's degree
 
 #### Frontend development of web system for BtoC Internet services
 
-- April 2021 to Present
 - As Dev lead, also manages engineer team and develops specifications
   - Team Management
   - Code Review
@@ -179,7 +177,6 @@ bachelor's degree
 
 #### Development of UI components library to be used in the team
 
-- October 2020 to Present
 - Developed library that can be commonly used by all front-end development team
 - Application Technologies
   - React
