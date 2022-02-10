@@ -53,9 +53,11 @@ pdf_options:
 ### 開発フレームワーク
 
 - React
+- React Native
 - Vue
 - Angular
 - Nuxt
+- Next.js
 - Gatsby
 - FastAPI
 - Laravel
@@ -91,13 +93,25 @@ pdf_options:
 
 サービス立ち上げ期における開発に携わる。
 関連会社の現場作業員とプロジェクト管理者のためのシステム。
-  
+
+- CI/CD 環境の構築
+- コードレビュー（主にフロントエンドと仕様面）
 - モバイルアプリ開発
   - フルスクラッチでの開発
   - 利用技術
     - TypeScript
     - React Native
     - Expo
+- Web アプリ開発
+  - 利用技術
+    - TypeScript
+    - Python
+    - Angular
+    - FastAPI
+    - GCP
+
+#### カーローン申込者や審査会社向けの管理ソフトの開発
+  
 - Web アプリ開発
   - 利用技術
     - TypeScript
