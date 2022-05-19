@@ -23,7 +23,7 @@ pdf_options:
 |名前|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
 |生年月日|1993/02/12|
 |メール|yoshiiwamasaki@gmail.com|
-|GitHub|[masaiborg](https://github.com/masaiborg)|
+|GitHub|[cymagix](https://github.com/cymagix)|
 |LinkedIn|[Profile](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 
 ## 学歴
