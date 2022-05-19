@@ -21,7 +21,7 @@ pdf_options:
 |Title|Description|
 |---|-----|
 |Name|Masaki Yoshiiwa|
-|GitHub|[masaiborg](https://github.com/masaiborg)|
+|GitHub|[cymagix](https://github.com/cymagix)|
 |LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
 |Email|yoshiiwamasaki@gmail.com|
 
@@ -119,17 +119,22 @@ bachelor's degree
   - TailwindCSS
   - GCP
 
-#### Development of an automated car loan application
+#### Development of web application platform for ACL group
 
 - Software for car loan applicants and review companies
-- Development of web application
-- Application Technologies of web application
+- Development of web application, and setup their infrastructure from scratch
+- Building Kubernetes infrastructure for the application
+- Application Technologies of applications
   - Python
   - TypeScript
   - FastAPI
+  - Next.js
+  - React
   - Angular
   - TailwindCSS
   - GCP
+    - GKE
+  - Kubernetes
 
 ---
 
