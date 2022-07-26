@@ -381,6 +381,10 @@ Worked on several projects, mainly from design to implementation, developing, al
 
 ## Extracurricular Activities
 
-### External Projects.
-- [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
+### Personal Projects
+- [Released a iOS app for recording walking activities.](https://apps.apple.com/app/id1616623088)
+
+### External Projects
 - [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021.](https://gihyo.jp/magazine/SD/archive/2021/202106)
+- [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
+
