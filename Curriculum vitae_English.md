@@ -27,11 +27,11 @@ pdf_options:
 
 ## Summary
 
-Frontend developer, also Software developer with a demonstrated history of working in several industries.  
+Full stack software developer, primarily front end developer, with a demonstrated history of working in several industries.   
 Specialized in web application and mobile application development.  
 Skilled in React, Vue.js, TypeScript, JavaScripr, HTML, CSS, also PHP, Python, etc.  
 Eager to learn new technology, eager to implement difficult feature.  
-Also, Eager to implement web design. One of the sites I worked on won Good Design Award.  
+Also, Eager to implement application design. One of the sites I worked on won Good Design Award.  
 
 ## Education
 
@@ -105,7 +105,7 @@ bachelor's degree
 
 - Software for field operatives and project managers of affiliated companies
 - Development of web application, and development of mobile native application from scratch
-- Code reviews
+- Code reviews, design reviews
 - Building a CI/CD Workflow with GitHub Actions for automated deployment
 - Application Technologies of mobile application
   - TypeScript
@@ -119,11 +119,14 @@ bachelor's degree
   - Angular
   - TailwindCSS
   - GCP
+  - Docker
 
 #### Development of web application platform for ACL group
 
 - Software for car loan applicants and review companies
+- Building an ecosystem involving multiple apps
 - Development of web application, and setup their infrastructure from scratch
+- Creating a design by using design tool Figma
 - Building Kubernetes infrastructure for the application
 - Application Technologies of applications
   - Python
@@ -134,7 +137,7 @@ bachelor's degree
   - Angular
   - TailwindCSS
   - GCP
-    - GKE
+  - Docker
   - Kubernetes
 
 ---
@@ -183,7 +186,7 @@ bachelor's degree
 
 #### Development of UI components library to be used in the team
 
-- Developed library that can be commonly used by all front-end development team
+- Developed UI component library that can be commonly used by all front-end development team
 - Application Technologies
   - React
   - TypeScript
@@ -215,7 +218,7 @@ Participate as a side job only on Saturdays.
 #### Fashion Platform Business 
 
 I was involved in the development of the service during the launch phase.
-Also, Involved in human resources by introducing developers I know.
+Also, Involved in human resources by introducing developers.
 
 ##### Responsibilities and experience and achievement
 
@@ -363,13 +366,13 @@ Worked on several projects, mainly from design to implementation, developing, al
   - HTML
   - CSS
 
-#### Web application development for stock orders for a major securities company in Japan
+#### Development of a system for purchasing insurance for a major insurance company in Japan
 
 - Programming Languages
   - C#
   - .NET
 
-#### Development of a system for purchasing insurance for a major insurance company in Japan
+#### Web application development for stock orders for a major securities company in Japan
 
 - Programming Languages
   - Java
