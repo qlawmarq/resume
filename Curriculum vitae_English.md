@@ -22,8 +22,8 @@ pdf_options:
 |---|-----|
 |Name|Masaki Yoshiiwa|
 |GitHub|[cymagix](https://github.com/cymagix)|
-|LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
-|Email|yoshiiwamasaki@gmail.com|
+|LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa)|
+|Email|masaki.yoshiiwa@gmail.com|
 
 ## Summary
 
@@ -199,7 +199,7 @@ bachelor's degree
 
 #### Managing CDN Service (Akamai) Settings
 
-- Setting CDN Service (Akamai)
+- Setting and managing CDN Service (Akamai) for all Rakuten mobile app ecosystem
 
 ---
 
@@ -248,7 +248,7 @@ Also, Involved in human resources by introducing developers.
 
 #### Photoruction development team
 
-As Full-stack Web Developers, I was involved in the development of new functions.
+As web developer, I was involved in the development of new functions.
 
 ##### Responsibilities and experience and achievement
 
@@ -267,7 +267,7 @@ As Full-stack Web Developers, I was involved in the development of new functions
 
 #### Photoruction Eye development team
 
-As Full-stack Web Developers, I was involved in the development of a new construction BPO business.
+As Full stack web developer, I was involved in the development of a new construction BPO business.
 
 ##### Responsibilities and experience and achievement
 
@@ -303,16 +303,18 @@ As Full-stack Web Developers, I was involved in the development of a new constru
 
 #### Development and operation of web invitation service for weddings
 
-As Full-stack Web Developers, I was involved in development and feature development for the redesign.
+As Full stack web developer, I was involved in development and feature development for the redesign.
 
 ##### Responsibilities and experience
 
-- As Full-stack Web Developers, added new features, also fixed bugs
+- As Full stack web developer, added new features, also fixed bugs
 - Experience in replacing an entire design of a web application while maintaining its functionality.
 - Application technologies
-  - Laravel
+  - PHP
+  - JavaScript
   - jQuery
   - Vue
+  - Laravel
   - AWS
   - HTML5
   - CSS3
@@ -329,9 +331,11 @@ Mainly involved in infrastructure construction and front-end development, with a
 
 - Developed at least one commercial website per month
 - Application technologies
-  - WordPress
-  - jQuery
+  - PHP
+  - JavaScript
   - Vue
+  - jQuery
+  - WordPress
   - AWS
   - HTML5
   - CSS3
