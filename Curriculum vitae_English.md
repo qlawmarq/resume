@@ -103,8 +103,8 @@ bachelor's degree
 
 #### Development of FieldStream app
 
-- Software for field operatives and project managers of affiliated companies
-- Development of web application, and development of mobile native application from scratch
+- Software for field operatives and project managers of affiliated companies, to manage their tasks
+- Development of web application and mobile native application from scratch
 - Code reviews, design reviews
 - Building a CI/CD Workflow with GitHub Actions for automated deployment
 - Application Technologies of mobile application
