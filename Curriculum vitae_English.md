@@ -139,6 +139,7 @@ bachelor's degree
   - GCP
   - Docker
   - Kubernetes
+  - Figma
 
 ---
 
