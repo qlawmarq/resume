@@ -22,7 +22,7 @@ pdf_options:
 |---|-----|
 |Name|Masaki Yoshiiwa|
 |GitHub|[cymagix](https://github.com/cymagix)|
-|LinkedIn|[masaki-yoshiiwa-995a25156](https://www.linkedin.com/in/masaki-yoshiiwa)|
+|LinkedIn|[masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
 |Email|masaki.yoshiiwa@gmail.com|
 
 ## Summary
