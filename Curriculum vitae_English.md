@@ -30,8 +30,8 @@ pdf_options:
 Full stack software developer, primarily front end developer, with a demonstrated history of working in several industries.   
 Specialized in web application and mobile application development.  
 Skilled in React, Vue.js, TypeScript, JavaScripr, HTML, CSS, also PHP, Python, etc.  
-Eager to learn new technology, eager to implement difficult feature.  
-Also, Eager to implement application design. One of the sites I worked on won Good Design Award.  
+Love to think of cool designs, eager to design and implement UI/UX for applications.
+One of the sites I worked on won Good Design Award.  
 
 ## Education
 
