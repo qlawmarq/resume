@@ -24,7 +24,7 @@ pdf_options:
 |生年月日|1993/02/12|
 |メール|yoshiiwamasaki@gmail.com|
 |GitHub|[cymagix](https://github.com/cymagix)|
-|LinkedIn|[Profile](https://www.linkedin.com/in/masaki-yoshiiwa-995a25156/)|
+|LinkedIn|[masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa/)|
 
 ## 学歴
 
@@ -110,15 +110,22 @@ pdf_options:
     - FastAPI
     - GCP
 
-#### カーローン申込者や審査会社向けの管理ソフトの開発
-  
-- Web アプリ開発
-  - 利用技術
-    - TypeScript
-    - Python
-    - Angular
-    - FastAPI
-    - GCP
+#### ACL グループ（オーストラリアの金融企業）向けの DX プラットフォーム及びアプリケーションの開発運用
+
+- アプリのデザインを Figma で作成
+- アプリ及びそのインフラ環境をフルスクラッチで構築
+- 利用技術
+  - Python
+  - TypeScript
+  - FastAPI
+  - Next.js
+  - React
+  - Angular
+  - TailwindCSS
+  - GCP
+  - Docker
+  - Kubernetes
+  - Figma
 
 ---
 
@@ -347,6 +354,10 @@ pdf_options:
 ---
 
 ## 課外活動
+  
+### 個人プロジェクト
+  
+- [散歩中のアクティビティを記録するための iOS アプリを開発リリース](https://apps.apple.com/app/id1616623088)
 
 ### 社外プロジェクト
 - [Gatsby js 日本語ドキュメントの翻訳を一部担当](https://github.com/gatsbyjs/gatsby-ja)
