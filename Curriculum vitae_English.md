@@ -128,7 +128,7 @@ bachelor's degree
 - Development of web application, and setup their infrastructure from scratch
 - Creating a design by using design tool Figma
 - Building Kubernetes infrastructure for the application
-- Application Technologies of applications
+- Application Technologies
   - Python
   - TypeScript
   - FastAPI
