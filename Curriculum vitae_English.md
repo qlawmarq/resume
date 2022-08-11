@@ -96,12 +96,12 @@ bachelor's degree
 |Title|Description|
 |---|-----|
 |Job Title|Senior software developer, Frontend developer|
-|Employment Type|Full-time employee|
+|Employment Type|Full-time|
 |Location|Gold Coast, Australia|
-|Business Description|Building software to help businesses scale.|
+|Business Description|Building software to help businesses scale|
 |Number of employees|About 10|
 
-#### Development of FieldStream app
+#### Development of FieldStream app (web/mobile)
 
 - Software for field operatives and project managers of affiliated companies, to manage their tasks
 - Development of web application and mobile native application from scratch
@@ -147,10 +147,10 @@ bachelor's degree
 
 |Title|Description|
 |---|-----|
-|Job Title|Frontend developer (Dev Lead)|
-|Employment Type|Full-time employee|
+|Job Title|Frontend developer (lead)|
+|Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|Telecommunications business based on the Telecommunications Business Act and other communications businesses|
+|Business Description|Telecommunications business and network communications businesses|
 |Number of employees|Over 1000|
 
 #### Frontend development of web system for BtoB MNP services
@@ -209,7 +209,7 @@ bachelor's degree
 |Title|Description|
 |---|-----|
 |Job Title|Frontend developer|
-|Employment Type|Freelance employee|
+|Employment Type|Freelance|
 |Location|Tokyo, Japan|
 |Business Description|Fashion Platform Business|
 |Number of employees|About 10|
@@ -242,9 +242,9 @@ Also, Involved in human resources by introducing developers.
 |Title|Description|
 |---|-----|
 |Job Title|Web developer|
-|Employment Type|Full-time employee|
+|Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|IT in the construction field|
+|Business Description|IT software service in the construction field|
 |Number of employees|About 50|
 
 #### Photoruction development team
@@ -296,9 +296,9 @@ As Full stack web developer, I was involved in the development of a new construc
 |Title|Description|
 |---|-----|
 |Job Title|Web developer|
-|Employment Type|Full-time employee|
+|Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|Website development, Web media and SaaS development|
+|Business Description|web media and web service development|
 |Number of employees|About 25|
 
 
@@ -355,10 +355,10 @@ Mainly involved in infrastructure construction and front-end development, with a
 |Title|Description|
 |---|-----|
 |Job Title|Software developer|
-|Employment Type|Full-time employee|
+|Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|System development|
-|Number of employees|About 1,000|
+|Business Description|IT System development|
+|Number of employees|Over 1,000|
 
 Worked on several projects, mainly from design to implementation, developing, also testing.
 
