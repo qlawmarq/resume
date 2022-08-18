@@ -22,7 +22,7 @@ pdf_options:
 |---|-----|
 |名前|<ruby><rb>吉岩 正樹<rb><rt>よしいわ まさき</rt></ruby>|
 |生年月日|1993/02/12|
-|メール|yoshiiwamasaki@gmail.com|
+|メール|masaki.yoshiiwa@gmail.com|
 |GitHub|[cymagix](https://github.com/cymagix)|
 |LinkedIn|[masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa/)|
 
