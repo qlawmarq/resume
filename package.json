@@ -1,11 +1,11 @@
 {
   "name": "markdown-to-cv-rejume-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Once write CV with markdown, Generate pdf of CV automatically with GitHub actions.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "generate": "md-to-pdf ./*.md"
+    "generate": "md-to-pdf ./*.md --config-file ./config.json"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/masaiborg/markdown-to-cv-rejume-generator/#readme",
   "dependencies": {
-    "md-to-pdf": "^5.0.0"
+    "md-to-pdf": "^5.1.0"
   }
 }
