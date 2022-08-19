@@ -10,7 +10,7 @@
 
 ## Summary
 
-Full stack software developer, primarily front end developer, with a demonstrated history of working in several industries.   
+Full stack software developer, primarily frontend developer, with a demonstrated history of working in several industries.   
 Specialized in web application and mobile application development.  
 Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, also PHP, Python, etc.  
 Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.  
@@ -148,7 +148,7 @@ bachelor's degree
 
 #### Development of UI components library to be used in the team
 
-- Developed UI component library that can be commonly used by all front-end development team
+- Developed UI component library that can be commonly used by all frontend development team
 - Application Technologies
   - React.js
   - TypeScript
