@@ -4,7 +4,8 @@
     "css": ".page-break { page-break-after: always; }",
     "pdf_options": {
         "format": "a4",
-        "margin": "30mm 15mm",
-        "displayHeaderFooter": true
+        "margin": "10mm 15mm",
+        "displayHeaderFooter": false,
+        "footerTemplate": "<section></section>"
     }
 }
