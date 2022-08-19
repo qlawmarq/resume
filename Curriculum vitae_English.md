@@ -140,6 +140,8 @@ bachelor's degree
   - Docker
   - Kubernetes
   - Figma
+- Reference Information
+  - [Release announcement for one of them](https://www.linkedin.com/posts/isaaclegge_this-week-we-have-launched-our-new-broker-activity-6945567075713064962-n-zN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ---
 
