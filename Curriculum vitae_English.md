@@ -36,14 +36,14 @@ bachelor's degree
 
 ## Skill
 
-### Language
+### Languages
 
 - Japanese
   - Native speaker
 - English
   - Business working proficiency
 
-### Programming Language
+### Programming Languages
 
 - TypeScript
 - JavaScript
@@ -69,7 +69,7 @@ bachelor's degree
 
 - GitHub Actions
 
-### Container engines
+### Container Engines
 
 - Docker
 - Kubernetes
