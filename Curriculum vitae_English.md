@@ -89,6 +89,8 @@ bachelor's degree
 - Docker
 - Kubernetes
 
+<div class="page-break"></div>
+
 ## Career History
 
 ### October 2021 - Now : Panthos Cloud Consulting
@@ -144,6 +146,8 @@ bachelor's degree
   - [Release announcement for one of them](https://www.linkedin.com/posts/isaaclegge_this-week-we-have-launched-our-new-broker-activity-6945567075713064962-n-zN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ---
+
+<div class="page-break"></div>
 
 ### October 2020 - October 2021 : Rakuten Mobile, Inc.
 
@@ -205,6 +209,8 @@ bachelor's degree
 - Setting and managing CDN Service (Akamai) for all Rakuten mobile app ecosystem
 
 ---
+
+<div class="page-break"></div>
 
 ### May 2020 - Septembar 2020 : FUNEE Inc.
 
@@ -292,6 +298,8 @@ As Full stack web developer, I was involved in the development of a new construc
   - CSS3
 
 ---
+
+<div class="page-break"></div>
 
 ### January 2019 - August 2019 : Kokochie Inc.
 
@@ -388,6 +396,8 @@ Worked on several projects, mainly from design to implementation, developing, al
   - CSS
 
 ---
+
+<div class="page-break"></div>
 
 ## Extracurricular Activities
 
