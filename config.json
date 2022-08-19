@@ -1,7 +1,7 @@
 {
     "stylesheet": "./md.css",
     "body_class": "markdown-body",
-    "css": ".page-break { page-break-after: always; } .markdown-body { font-size: 11px; } .markdown-body pre > code { white-space: pre-wrap; }",
+    "css": ".page-break { page-break-after: always; }",
     "pdf_options": {
         "format": "a4",
         "margin": "30mm 15mm",
