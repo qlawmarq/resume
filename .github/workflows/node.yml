@@ -18,8 +18,8 @@ jobs:
       with:
         node-version: '12.17.0'
 
-    - name: yarn install
-      run: yarn install
+    - name: npm install
+      run: npm install
 
     - name: Install ubuntu package
       run: |
@@ -27,7 +27,7 @@ jobs:
         sudo apt-get install fonts-takao-mincho fonts-takao
 
     - name: Generate PDF
-      run: yarn generate
+      run: npm run generate
 
     - name: Git commit and push
       run: |
