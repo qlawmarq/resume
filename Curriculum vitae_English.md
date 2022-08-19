@@ -80,7 +80,7 @@ bachelor's degree
 
 ### October 2021 - Now : Panthos Cloud Consulting
 
-|Job Title|Senior software developer, Frontend developer|
+|Job Title|Senior software developer (Frontend/Fullstack)|
 |---|-----|
 |Employment Type|Full-time|
 |Location|Gold Coast, Australia|
@@ -123,7 +123,7 @@ bachelor's degree
 
 ### October 2020 - October 2021 : Rakuten Mobile, Inc.
 
-|Job Title|Frontend developer (lead)|
+|Job Title|Frontend developer (Lead)|
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
