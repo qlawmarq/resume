@@ -4,7 +4,7 @@
 
 |Name|Masaki Yoshiiwa|
 |---|-----|
-|GitHub|[cymagix](https://github.com/cymagix)|
+|GitHub|[github.com/cymagix](https://github.com/cymagix)|
 |LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
 |Email|masaki.yoshiiwa@gmail.com|
 
