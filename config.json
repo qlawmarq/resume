@@ -5,7 +5,6 @@
     "pdf_options": {
         "format": "a4",
         "margin": "30mm 15mm",
-        "displayHeaderFooter": true,
-        "footerTemplate": "<section><div> Page <span class='pageNumber'></span> of <span class='totalPages'></span></div></section>"
+        "displayHeaderFooter": true
     }
 }
