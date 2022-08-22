@@ -84,7 +84,7 @@ bachelor's degree
 |---|-----|
 |Employment Type|Full-time|
 |Location|Gold Coast, Australia|
-|Business Description|Building software to help businesses scale|
+|Business Description|Software development, IT consulting|
 |Number of employees|About 10|
 
 #### Development of FieldStream app (web/mobile)
@@ -169,7 +169,7 @@ bachelor's degree
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|IT software service in the construction field|
+|Business Description|Software services in the construction sector|
 |Number of employees|About 50|
 
 #### Photoruction development
@@ -211,7 +211,7 @@ bachelor's degree
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|web media and web service development|
+|Business Description|Software development such as web service and web media|
 |Number of employees|About 25|
 
 
@@ -252,7 +252,7 @@ bachelor's degree
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
-|Business Description|IT System development|
+|Business Description|IT software development for various industries|
 |Number of employees|Over 1,000|
 
 Worked on several projects, mainly from design to implementation, developing, also testing.
