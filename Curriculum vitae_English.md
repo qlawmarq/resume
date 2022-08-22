@@ -20,7 +20,7 @@ Love to think of cool and user-friendly designs, eager to design and implement U
 
 Apr 2012 – Mar 2017  
 Yokohama City University, Japan  
-bachelor's degree
+Bachelor of Arts
 
 ## Extracurricular Activities
 
