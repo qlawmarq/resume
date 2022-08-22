@@ -133,7 +133,8 @@ Bachelor of Arts
 #### Frontend development for multiple services (B2C/B2B)
 
 - Frontend development using React.js
-- As lead developer, managed tasks for other developers, also done following
+- In some projects, worked as lead developer
+  - Task management
   - Code Review
   - Adjust specifications and check implementation
 - Building a CI/CD Workflow
