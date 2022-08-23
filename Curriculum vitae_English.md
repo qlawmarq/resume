@@ -89,7 +89,7 @@ Bachelor of Arts
 
 #### Development of FieldStream app (web/mobile)
 
-- Development of web application and mobile native application from scratch
+- Developed web application and mobile native application (iOS/Android) from scratch
 - Code reviews, design reviews
 - Building a CI/CD Workflow with GitHub Actions for automated deployment
 - Application Technologies of mobile application
@@ -104,8 +104,8 @@ Bachelor of Arts
 
 #### Development of web application platform for ACL group
 
-- Building an ecosystem involving multiple apps
-- Development of web application, and setup their infrastructure from scratch
+- Developed multiple web applications from scratch
+- Setup the application infrastructures in Google Cloud
 - Creating a design by using design tool Figma
 - Application Technologies
   - Python
