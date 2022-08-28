@@ -10,7 +10,7 @@
 
 ## Summary
 
-Full stack software developer, primarily frontend developer, with a demonstrated history of working in several industries.   
+Front-end developer with extensive experience as full stack developer, with a demonstrated history of working in several industries.   
 Specialized in web application and mobile application development.  
 Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, also PHP, Python, etc.  
 Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.  
@@ -80,7 +80,7 @@ Bachelor of Arts
 
 ### October 2021 - Now : Panthos Cloud Consulting
 
-|Job Title|Senior software developer (Frontend/Fullstack)|
+|Job Title|Senior software developer (Front-end/Fullstack)|
 |---|-----|
 |Employment Type|Full-time|
 |Location|Gold Coast, Australia|
@@ -123,16 +123,16 @@ Bachelor of Arts
 
 ### October 2020 - October 2021 : Rakuten Mobile, Inc.
 
-|Job Title|Frontend developer (Lead)|
+|Job Title|Front-end developer (Lead)|
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
 |Business Description|Telecommunications business and network communications businesses|
 |Number of employees|Over 1000|
 
-#### Frontend development for multiple services (B2C/B2B)
+#### Front-end development for multiple services (B2C/B2B)
 
-- Frontend development using React.js
+- Front-end development using React.js
 - In some projects, worked as lead developer
   - Task management
   - Code Review
