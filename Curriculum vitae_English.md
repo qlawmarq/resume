@@ -38,41 +38,39 @@ Bachelor of Arts
 
 ### Languages
 
-- Japanese
-  - Native speaker
-- English
-  - Business working proficiency
+- Japanese (Native speaker)
+- English (Business working proficiency)
 
 ### Programming Languages
 
-- TypeScript
-- JavaScript
-- CSS
-- HTML
-- PHP
-- Python
+- TypeScript (Expert)
+- JavaScript (Expert)
+- CSS (Expert)
+- HTML (Expert)
+- PHP (Proficient)
+- Python (Proficient)
 
 ### Programming Frameworks
 
-- React.js
-- React Native
-- Vue.js
-- Laravel
-- FastAPI
+- React.js (Expert)
+- React Native (Expert)
+- Vue.js (Proficient)
+- Laravel (Proficient)
+- FastAPI (Proficient)
 
 ### Cloud Computing Services
 
-- Amazon Web Services
-- Google Cloud
+- Amazon Web Services (Intermediate)
+- Google Cloud (Intermediate)
 
 ### CI/CD
 
-- GitHub Actions
+- GitHub Actions (Proficient)
 
 ### Container Engines
 
-- Docker
-- Kubernetes
+- Docker (Proficient)
+- Kubernetes (Intermediate)
 
 <div class="page-break"></div>
 
