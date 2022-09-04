@@ -111,6 +111,7 @@ Bachelor of Arts
   - FastAPI
   - React.js (Next.js)
   - Google Cloud
+  - Docker
   - Kubernetes
   - Figma
 - References
