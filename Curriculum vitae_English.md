@@ -4,10 +4,10 @@
 
 |Name|Masaki Yoshiiwa|
 |---|-----|
-|Portfolio|[cymagix.net](https://cymagix.net)|
-|GitHub|[github.com/cymagix](https://github.com/cymagix)|
-|LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
 |Email|masaki.yoshiiwa@gmail.com|
+|GitHub|[github.com/cymagix](https://github.com/cymagix)|
+|Portfolio|[cymagix.net](https://cymagix.net)|
+|LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
 
 ## Summary
 
