@@ -103,7 +103,7 @@ Bachelor of Arts
 
 #### Development of web application platform for ACL group
 
-- Developed multiple web applications from scratch
+- Developed multiple web applications from scratch, and maintained and scaled them.
 - Setup the application infrastructures in Google Cloud
 - Creating a design by using design tool Figma
 - Application Technologies
