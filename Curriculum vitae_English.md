@@ -83,6 +83,7 @@ Bachelor of Arts
 |---|-----|
 |Employment Type|Full-time|
 |Location|Gold Coast, Australia|
+|Website|[panthos.com.au](https://www.panthos.com.au/)|
 |Business Description|Software development, IT consulting|
 |Number of employees|About 10|
 
@@ -90,7 +91,7 @@ Bachelor of Arts
 
 - Developed web application and mobile native application (iOS/Android) from scratch
 - Code reviews, design reviews
-- Building a CI/CD Workflow with GitHub Actions for automated deployment
+- Built a CI/CD Workflow with GitHub Actions for automated deployment
 - Application Technologies of mobile application
   - TypeScript
   - React Native
@@ -127,6 +128,7 @@ Bachelor of Arts
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
+|Website|[corp.mobile.rakuten.co.jp/english](https://corp.mobile.rakuten.co.jp/english/)|
 |Business Description|Telecommunications business and network communications businesses|
 |Number of employees|Over 1000|
 
@@ -170,14 +172,15 @@ Bachelor of Arts
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
+|Website|[photoruction.com](https://www.photoruction.com/)|
 |Business Description|Software services in the construction sector|
 |Number of employees|About 50|
 
-#### Photoruction development
+#### Development of Photoruction
 
-- I was involved in the development of new features for Photoruction app.
-  - Experience in developing PDF generation function from large volume databases
-  - Experience in developing a function that allows users to download more than 1000 images in one ZIP file.
+- Developed some of new features for Photoruction web app.
+  - Developed PDF generation function that can be edited on the Web with D3.js.
+  - Developed a function that allows users to download more than 500 images in one ZIP file.
 - Application technologies
   - PHP
   - JavaScript
@@ -187,7 +190,7 @@ Bachelor of Arts
   - HTML5
   - CSS3
 
-#### Photoruction Eye development
+#### Development of Photoruction Eye
 
 - Developed a web service and their prototype from scratch
 - Lead on technology selection and architecture design
@@ -212,14 +215,16 @@ Bachelor of Arts
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
+|Website|[kokochie.co.jp](https://kokochie.co.jp/)|
 |Business Description|Software development such as web service and web media|
 |Number of employees|About 25|
 
 
-#### Development and operation of web invitation service for weddings
+#### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
 
-- As Full stack developer, I developed some of new features for the app.
-- Experience in replacing an entire design of the app.
+- Developed some of new features for the app.
+  - Replaced the entire UI design of the app.
+  - Added some of new design template.
 - Application technologies
   - PHP
   - JavaScript
@@ -253,6 +258,7 @@ Bachelor of Arts
 |---|-----|
 |Employment Type|Full-time|
 |Location|Tokyo, Japan|
+|Website|[www.jastec.co.jp/eng](https://www.jastec.co.jp/eng/)|
 |Business Description|IT software development for various industries|
 |Number of employees|Over 1,000|
 
