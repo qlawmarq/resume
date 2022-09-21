@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - main
 
 jobs:
   nodejob:
@@ -35,4 +36,4 @@ jobs:
         git config --global user.name "Masaki Yoshiiwa"
         git add .
         git status
-        git commit -m 'generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
+        git commit -m 'Generate PDF' && git push ${REPO} ${{github.event.pull_request.head.ref}}
