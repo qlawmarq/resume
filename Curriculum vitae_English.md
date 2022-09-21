@@ -95,6 +95,7 @@ Bachelor of Arts
 - Application Technologies of mobile application
   - TypeScript
   - React Native
+  - Expo
 - Application Technologies of web application
   - Python
   - TypeScript
