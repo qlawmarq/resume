@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yopinoji/yopinoji.git"
+    "url": "git+https://github.com/cymagix/my-cv-rejume.git"
   },
   "keywords": [
     "rejume",
@@ -18,9 +18,9 @@
   "author": "Masaki Yoshiiwa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/masaiborg/markdown-to-cv-rejume-generator/issues"
+    "url": "https://github.com/cymagix/my-cv-rejume/issues"
   },
-  "homepage": "https://github.com/masaiborg/markdown-to-cv-rejume-generator/#readme",
+  "homepage": "https://github.com/cymagix/my-cv-rejume/#readme",
   "dependencies": {
     "md-to-pdf": "^5.1.0"
   }
