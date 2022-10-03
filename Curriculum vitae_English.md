@@ -82,7 +82,7 @@ Bachelor of Arts
 |Job Title|Senior software developer (Front-end/Fullstack)|
 |---|-----|
 |Employment Type|Full-time|
-|Location|Gold Coast, Australia|
+|Location|Gold Coast, Queensland, Australia|
 |Website|[panthos.com.au](https://www.panthos.com.au/)|
 |Business Description|Software development, IT consulting|
 |Number of employees|About 10|
