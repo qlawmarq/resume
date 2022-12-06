@@ -51,16 +51,17 @@ Bachelor of Arts
 - JavaScript (Expert)
 - CSS (Expert)
 - HTML (Expert)
-- PHP (Proficient)
 - Python (Proficient)
+- PHP (Proficient)
 
 ### Programming Frameworks
 
 - React.js (Expert)
 - React Native (Expert)
 - Vue.js (Proficient)
-- Laravel (Proficient)
+- Angular (Proficient)
 - FastAPI (Proficient)
+- Laravel (Proficient)
 
 ### Cloud Computing Services
 
@@ -90,7 +91,7 @@ Bachelor of Arts
 |Business Description|Software development, IT consulting|
 |Number of employees|About 10|
 
-#### Development of FieldStream app (web/mobile)
+#### Development of [FieldStream](https://app.fieldstream.com.au/) app (web/mobile)
 
 - Developed web application and mobile native application (iOS/Android) from scratch
 - Code reviews, design reviews
@@ -106,9 +107,10 @@ Bachelor of Arts
   - Google Cloud
   - Docker
 
-#### Development of web application platform for ACL group
+#### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
 
 - Developed multiple web applications from scratch, and maintained and scaled them.
+  - Rate estimator app for financial brokers, user management web portal, etc...
 - Setup the application infrastructures in Google Cloud
 - Creating a design by using design tool Figma
 - Application Technologies
@@ -243,7 +245,7 @@ Bachelor of Arts
 
 #### Commercial web site development
 
-- I developed some of commercial web sites and landing pages.
+- Developed some of commercial web sites.
 - Application technologies
   - PHP
   - JavaScript
