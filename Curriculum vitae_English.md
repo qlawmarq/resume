@@ -184,9 +184,8 @@ Bachelor of Arts
 
 #### Development of Photoruction
 
-- Developed some of new features for Photoruction web app.
-  - Developed PDF generation function that can be edited on the Web with D3.js.
-  - Developed a function that allows users to download more than 500 images in one ZIP file.
+- Developed some of new features for Photoruction web app, and maintained it.
+  - Responsible for all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
   - JavaScript
@@ -228,9 +227,8 @@ Bachelor of Arts
 
 #### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
 
-- Developed some of new features for the app.
-  - Replaced the entire UI design of the app.
-  - Added some of new design template.
+- Developed and maintained the app features.
+  - Responsible for all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
   - JavaScript
@@ -245,7 +243,7 @@ Bachelor of Arts
 
 #### Commercial web site development
 
-- Developed some of commercial web sites.
+- Developed some of commercial web sites for clients, and maintained it.
 - Application technologies
   - PHP
   - JavaScript
@@ -279,7 +277,7 @@ Worked on several projects, mainly from design to implementation, developing, al
 
 #### Development of a shipping management system for a major shipping company in Japan
 
-- Developed a new app to help track packages
+- Developed a new app to help track shipping packages
 - Application technologies
   - C#
   - JavaScript
