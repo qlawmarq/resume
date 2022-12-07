@@ -32,7 +32,7 @@ Bachelor of Arts
   - [Android](https://play.google.com/store/apps/details?id=com.aws_amazon_s3_management_tool)
 
 ### External Projects
-- [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021.](https://gihyo.jp/magazine/SD/archive/2021/202106)
+- [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
 - [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
 
 
