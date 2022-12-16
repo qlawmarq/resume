@@ -77,6 +77,10 @@ Bachelor of Arts
 - Docker (Proficient)
 - Kubernetes (Intermediate)
 
+### Monitoring
+
+- Sentry (Intermediate)
+
 <div class="page-break"></div>
 
 ## Career History
@@ -122,6 +126,7 @@ Bachelor of Arts
   - Docker
   - Kubernetes
   - Figma
+  - Sentry
 - References
   - [Release announcement for one of their app](https://www.linkedin.com/posts/isaaclegge_this-week-we-have-launched-our-new-broker-activity-6945567075713064962-n-zN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
