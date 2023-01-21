@@ -30,11 +30,6 @@ Bachelor of Arts
   - App to keep track of your walking activity, that displays travel distance and speed on a map in real time using GPS.
   - Links:
     - [App for iOS](https://apps.apple.com/app/id1616623088)
-- Released an iOS and Android app for managing AWS Amazon S3 from mobile devices.
-  - App to easily upload and manage photos and other files from phone to AWS Amazon S3.
-  - Links: 
-    - [App for iOS](https://apps.apple.com/app/id6443931205)
-    - [App for Android](https://play.google.com/store/apps/details?id=com.aws_amazon_s3_management_tool)
 
 ### External Projects
 - [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
