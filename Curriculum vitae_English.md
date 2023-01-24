@@ -87,7 +87,7 @@ Bachelor of Arts
 
 ### October 2021 - Now : Panthos Cloud Consulting
 
-|Job Title|Senior software developer (Front-end/Fullstack)|
+|Job Title|Senior software developer|
 |---|-----|
 |Employment Type|Full-time|
 |Location|Gold Coast, Queensland, Australia|
