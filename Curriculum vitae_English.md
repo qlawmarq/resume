@@ -6,7 +6,6 @@
 |---|-----|
 |Email|masaki.yoshiiwa@gmail.com|
 |GitHub|[github.com/cymagix](https://github.com/cymagix)|
-|Portfolio|[cymagix.net](https://cymagix.net)|
 |LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
 
 ## Summary
@@ -15,7 +14,6 @@ Front-end developer with extensive experience as full stack developer, with a de
 Specialized in web application and mobile application development.  
 Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, also PHP, Python, etc.  
 Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.  
-Love to think of cool and user-friendly designs, eager to design and implement UI. One of the website I worked on won Good Design Award.  
 
 ## Education
 
