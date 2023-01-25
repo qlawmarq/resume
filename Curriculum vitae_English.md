@@ -97,9 +97,10 @@ Bachelor of Arts
 
 #### Development of [FieldStream](https://app.fieldstream.com.au/) app (web/mobile)
 
-- Developed web application and mobile native application (iOS/Android) from scratch
-- Code reviews, design reviews
-- Built a CI/CD Workflow with GitHub Actions for automated deployment
+- Developed web application and mobile native application (iOS/Android) from scratch.
+- Responsible for overall development process.
+- Code reviews, design reviews.
+- Built a CI/CD Workflow with GitHub Actions for automated deployment.
 - Application Technologies of mobile application
   - TypeScript
   - React Native
@@ -115,8 +116,9 @@ Bachelor of Arts
 
 - Developed multiple web applications from scratch, and maintained and scaled them.
   - Rate estimator app for financial brokers, user management web portal, etc...
-- Setup the application infrastructures in Google Cloud
-- Creating a design by using design tool Figma
+- Responsible for overall development process.
+- Setup the application infrastructures with Google Kubernetes Engine (GKE).
+- Creating a design by using design tool Figma.
 - Application Technologies
   - Python
   - TypeScript
@@ -145,12 +147,13 @@ Bachelor of Arts
 
 #### Front-end development for multiple services (B2C/B2B)
 
-- Front-end development using React.js
-- In some projects, worked as lead developer
+- Front-end development using React.js.
+- Responsible for web front-end development.
+- In some projects, worked as lead developer.
   - Task management
   - Code Review
   - Adjust specifications and check implementation
-- Building a CI/CD Workflow
+- Built a CI/CD Workflow with GitHub Actions for automated deployment.
 - Application Technologies
   - React.js
   - TypeScript
@@ -162,7 +165,7 @@ Bachelor of Arts
 
 #### Development of UI components library to be used in the team
 
-- Developed UI component library that can be commonly used by all frontend development team
+- Developed UI component library that can be commonly used by all frontend development team.
 - Application Technologies
   - React.js
   - TypeScript
@@ -190,7 +193,7 @@ Bachelor of Arts
 #### Development of Photoruction
 
 - Developed some of new features for Photoruction web app, and maintained it.
-  - Responsible for all web-related areas including API server, front-end, DB, infrastructure.
+- Responsible for development of all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
   - JavaScript
@@ -202,9 +205,9 @@ Bachelor of Arts
 
 #### Development of Photoruction Eye
 
-- Developed a web service and their prototype from scratch
-- Lead on technology selection and architecture design
-- Building a CI/CD environment with GitHub Actions for automated deployment and more
+- Developed prototype of a web service from scratch.
+- Lead on technology selection and architecture design.
+- Building a CI/CD environment with GitHub Actions for automated deployment and more.
 - Application technologies
   - TypeScript
   - React.js
@@ -233,7 +236,7 @@ Bachelor of Arts
 #### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
 
 - Developed and maintained the app features.
-  - Responsible for all web-related areas including API server, front-end, DB, infrastructure.
+- Responsible for development of all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
   - JavaScript
@@ -277,12 +280,14 @@ Worked on several projects, mainly from design to implementation, developing, al
 
 - Support the development of an application to assist in explaining and applying for insurance products.
 - Developed new features, as one of the 20+ team members
+- Responsible for development and testing
 - Application technologies
   - C#
 
 #### Development of a shipping management system for a major shipping company in Japan
 
 - Developed a new app to help track shipping packages
+- Responsible for design, development and testing
 - Application technologies
   - C#
   - JavaScript
@@ -292,6 +297,7 @@ Worked on several projects, mainly from design to implementation, developing, al
 #### Web application development for stock orders for a major securities company in Japan
 
 - Support development of applications for trading stocks and other financial commodities
+- Responsible for development and testing
 - Application technologies
   - Java
   - JavaScript
