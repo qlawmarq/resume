@@ -277,7 +277,6 @@ Worked on several projects, mainly from design to implementation, developing, al
 #### Development of a system for purchasing insurance for a major insurance company in Japan
 
 - Support the development of an application to assist in explaining and applying for insurance products.
-- Developed new features, as one of the 20+ team members
 - Responsible for development and testing
 - Application technologies
   - C#
