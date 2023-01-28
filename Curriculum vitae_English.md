@@ -103,7 +103,7 @@ Bachelor of Arts
   - TypeScript
   - React Native
   - Expo
-- Application Technologies of web application
+- Application Technologies of web application and API server
   - Python
   - TypeScript
   - FastAPI
