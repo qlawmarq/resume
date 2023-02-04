@@ -75,7 +75,7 @@ Bachelor of Arts
 - Docker (Proficient)
 - Kubernetes (Intermediate)
 
-### Monitoring
+### Monitoring Tools
 
 - Sentry (Intermediate)
 
@@ -91,7 +91,7 @@ Bachelor of Arts
 |Location|Gold Coast, Queensland, Australia|
 |Website|[panthos.com.au](https://www.panthos.com.au/)|
 |Business Description|Software development, IT consulting|
-|Number of employees|About 10|
+|Number of employees|Under 50|
 
 #### Development of [FieldStream](https://app.fieldstream.com.au/) app (web/mobile)
 
@@ -186,7 +186,7 @@ Bachelor of Arts
 |Location|Tokyo, Japan|
 |Website|[photoruction.com](https://www.photoruction.com/)|
 |Business Description|Software services in the construction sector|
-|Number of employees|About 50|
+|Number of employees|Under 100|
 
 #### Development of Photoruction
 
@@ -228,7 +228,7 @@ Bachelor of Arts
 |Location|Tokyo, Japan|
 |Website|[kokochie.co.jp](https://kokochie.co.jp/)|
 |Business Description|Software development such as web service and web media|
-|Number of employees|About 25|
+|Number of employees|Under 50|
 
 
 #### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
