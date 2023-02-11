@@ -66,7 +66,7 @@ Bachelor of Arts
 - Amazon Web Services (Intermediate)
 - Google Cloud (Intermediate)
 
-### CI/CD
+### CI/CD Tools
 
 - GitHub Actions (Proficient)
 
