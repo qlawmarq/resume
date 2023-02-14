@@ -5,8 +5,8 @@
 |Name|Masaki Yoshiiwa|
 |---|-----|
 |Email|masaki.yoshiiwa@gmail.com|
-|GitHub|[github.com/cymagix](https://github.com/cymagix)|
-|LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/masaki-yoshiiwa)|
+|GitHub|[github.com/CyberBonfire](https://github.com/CyberBonfire)|
+|LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/CyberBonfire)|
 
 ## Summary
 
