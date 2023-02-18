@@ -6,7 +6,7 @@
 |---|-----|
 |Email|masaki.yoshiiwa@gmail.com|
 |GitHub|[github.com/CyberBonfire](https://github.com/CyberBonfire)|
-|LinkedIn|[linkedin.com/in/masaki-yoshiiwa](https://www.linkedin.com/in/CyberBonfire)|
+|LinkedIn|[linkedin.com/in/CyberBonfire](https://www.linkedin.com/in/CyberBonfire)|
 
 ## Summary
 
