@@ -5,8 +5,8 @@
 |Name|Masaki Yoshiiwa|
 |---|-----|
 |Email|masaki.yoshiiwa@gmail.com|
-|GitHub|[github.com/CyberBonfire](https://github.com/CyberBonfire)|
-|LinkedIn|[linkedin.com/in/CyberBonfire](https://www.linkedin.com/in/CyberBonfire)|
+|GitHub|[github.com/qlawmarq](https://github.com/qlawmarq)|
+|LinkedIn|[linkedin.com/in/qlawmarq](https://www.linkedin.com/in/qlawmarq)|
 
 ## Summary
 
@@ -22,12 +22,6 @@ Yokohama City University, Japan
 Bachelor of Arts
 
 ## Extracurricular Activities
-
-### Personal Projects
-- Released an iOS app for recording walking activities.
-  - App to keep track of your walking activity, that displays travel distance and speed on a map in real time using GPS.
-  - Links:
-    - [App for iOS](https://apps.apple.com/app/id1616623088)
 
 ### External Projects
 - [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
@@ -93,7 +87,7 @@ Bachelor of Arts
 |Business Description|Software development, IT consulting|
 |Number of employees|Under 50|
 
-#### Development of [FieldStream](https://app.fieldstream.com.au/) app (web/mobile)
+#### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
 
 - Developed web application and mobile native application (iOS/Android) from scratch.
 - Responsible for overall development process.
