@@ -2,18 +2,18 @@
 
 ## Personal Data
 
-|Name|Masaki Yoshiiwa|
-|---|-----|
-|Email|masaki.yoshiiwa@gmail.com|
-|GitHub|[github.com/qlawmarq](https://github.com/qlawmarq)|
-|LinkedIn|[linkedin.com/in/qlawmarq](https://www.linkedin.com/in/qlawmarq)|
+| Name     | Masaki Yoshiiwa                                                  |
+| -------- | ---------------------------------------------------------------- |
+| Email    | masaki.yoshiiwa@gmail.com                                        |
+| GitHub   | [github.com/qlawmarq](https://github.com/qlawmarq)               |
+| LinkedIn | [linkedin.com/in/qlawmarq](https://www.linkedin.com/in/qlawmarq) |
 
 ## Summary
 
-Front-end developer with extensive experience as full stack developer, with a demonstrated history of working in several industries.   
+Front-end developer with extensive experience as full stack developer, with a demonstrated history of working in several industries.  
 Specialized in web application and mobile application development.  
-Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, also PHP, Python, etc.  
-Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.  
+Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Python, etc.  
+Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.
 
 ## Education
 
@@ -24,9 +24,9 @@ Bachelor of Arts
 ## Extracurricular Activities
 
 ### External Projects
+
 - [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
 - [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
-
 
 <div class="page-break"></div>
 
@@ -79,13 +79,26 @@ Bachelor of Arts
 
 ### October 2021 - Now : Panthos Cloud Consulting
 
-|Job Title|Senior software developer|
-|---|-----|
-|Employment Type|Full-time|
-|Location|Gold Coast, Queensland, Australia|
-|Website|[panthos.com.au](https://www.panthos.com.au/)|
-|Business Description|Software development, IT consulting|
-|Number of employees|Under 50|
+| Job Title            | Senior software developer                     |
+| -------------------- | --------------------------------------------- |
+| Employment Type      | Full-time                                     |
+| Location             | Gold Coast, Queensland, Australia             |
+| Website              | [panthos.com.au](https://www.panthos.com.au/) |
+| Business Description | Software development, IT consulting           |
+| Number of employees  | Under 50                                      |
+
+#### Web/Mobile app development for multiple services
+
+- Responsible for web/mobile app development.
+- Built a CI/CD Workflow with GitHub Actions for automated deployment.
+- Application Technologies
+  - React.js
+  - React Native
+  - TypeScript
+  - Redux
+  - Python
+  - FastAPI
+  - Google Cloud
 
 #### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
 
@@ -124,18 +137,17 @@ Bachelor of Arts
 - References
   - [Release announcement for one of their app](https://www.linkedin.com/posts/isaaclegge_this-week-we-have-launched-our-new-broker-activity-6945567075713064962-n-zN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-
 <div class="page-break"></div>
 
 ### October 2020 - October 2021 : Rakuten Mobile, Inc.
 
-|Job Title|Front-end developer (Lead)|
-|---|-----|
-|Employment Type|Full-time|
-|Location|Tokyo, Japan|
-|Website|[corp.mobile.rakuten.co.jp/english](https://corp.mobile.rakuten.co.jp/english/)|
-|Business Description|Telecommunications business and network communications businesses|
-|Number of employees|Over 1000|
+| Job Title            | Front-end developer (Lead)                                                      |
+| -------------------- | ------------------------------------------------------------------------------- |
+| Employment Type      | Full-time                                                                       |
+| Location             | Tokyo, Japan                                                                    |
+| Website              | [corp.mobile.rakuten.co.jp/english](https://corp.mobile.rakuten.co.jp/english/) |
+| Business Description | Telecommunications business and network communications businesses               |
+| Number of employees  | Over 1000                                                                       |
 
 #### Front-end development for multiple services (B2C/B2B)
 
@@ -174,13 +186,13 @@ Bachelor of Arts
 
 ### December 2019 - September 2020 : Photoraction Inc.
 
-|Job Title|Web application developer|
-|---|-----|
-|Employment Type|Full-time|
-|Location|Tokyo, Japan|
-|Website|[photoruction.com](https://www.photoruction.com/)|
-|Business Description|Software services in the construction sector|
-|Number of employees|Under 100|
+| Job Title            | Web application developer                         |
+| -------------------- | ------------------------------------------------- |
+| Employment Type      | Full-time                                         |
+| Location             | Tokyo, Japan                                      |
+| Website              | [photoruction.com](https://www.photoruction.com/) |
+| Business Description | Software services in the construction sector      |
+| Number of employees  | Under 100                                         |
 
 #### Development of Photoruction
 
@@ -211,19 +223,17 @@ Bachelor of Arts
   - HTML5
   - CSS3
 
-
 <div class="page-break"></div>
 
 ### January 2019 - August 2019 : Kokochie Inc.
 
-|Job Title|Web application developer|
-|---|-----|
-|Employment Type|Full-time|
-|Location|Tokyo, Japan|
-|Website|[kokochie.co.jp](https://kokochie.co.jp/)|
-|Business Description|Software development such as web service and web media|
-|Number of employees|Under 50|
-
+| Job Title            | Web application developer                              |
+| -------------------- | ------------------------------------------------------ |
+| Employment Type      | Full-time                                              |
+| Location             | Tokyo, Japan                                           |
+| Website              | [kokochie.co.jp](https://kokochie.co.jp/)              |
+| Business Description | Software development such as web service and web media |
+| Number of employees  | Under 50                                               |
 
 #### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
 
@@ -256,15 +266,15 @@ Bachelor of Arts
 
 <div class="page-break"></div>
 
-### April 2017 - December	 2018 : JASTEC Inc.
+### April 2017 - December 2018 : JASTEC Inc.
 
-|Job Title|Software developer|
-|---|-----|
-|Employment Type|Full-time|
-|Location|Tokyo, Japan|
-|Website|[www.jastec.co.jp/eng](https://www.jastec.co.jp/eng/)|
-|Business Description|IT software development for various industries|
-|Number of employees|Over 1,000|
+| Job Title            | Software developer                                    |
+| -------------------- | ----------------------------------------------------- |
+| Employment Type      | Full-time                                             |
+| Location             | Tokyo, Japan                                          |
+| Website              | [www.jastec.co.jp/eng](https://www.jastec.co.jp/eng/) |
+| Business Description | IT software development for various industries        |
+| Number of employees  | Over 1,000                                            |
 
 Worked on several projects, mainly from design to implementation, developing, also testing.
 
