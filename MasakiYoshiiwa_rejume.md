@@ -89,41 +89,30 @@ Bachelor of Arts
 
 #### Web/Mobile app development for multiple services
 
-- Responsible for web/mobile app development.
-- Built a CI/CD Workflow with GitHub Actions for automated deployment.
+- Developed multiple web/mobile app and their api and their CI/CD Workflow, by internal and external request.
 - Application Technologies
   - React.js
-  - React Native
   - TypeScript
-  - Redux
   - Python
   - FastAPI
   - Google Cloud
+- Some examples are described below.
 
 #### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
 
 - Developed web application and mobile native application (iOS/Android) from scratch.
-- Responsible for overall development process.
-- Code reviews, design reviews.
 - Built a CI/CD Workflow with GitHub Actions for automated deployment.
-- Application Technologies of mobile application
+- Application Technologies
   - TypeScript
-  - React Native
-  - Expo
-- Application Technologies of web application and API server
   - Python
-  - TypeScript
-  - FastAPI
+  - React Native (Expo)
   - Google Cloud
   - Docker
 
 #### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
 
 - Developed multiple web applications from scratch, and maintained and scaled them.
-  - Rate estimator app for financial brokers, user management web portal, etc...
-- Responsible for overall development process.
 - Setup the application infrastructures with Google Kubernetes Engine (GKE).
-- Creating a design by using design tool Figma.
 - Application Technologies
   - Python
   - TypeScript
@@ -132,10 +121,6 @@ Bachelor of Arts
   - Google Cloud
   - Docker
   - Kubernetes
-  - Figma
-  - Sentry
-- References
-  - [Release announcement for one of their app](https://www.linkedin.com/posts/isaaclegge_this-week-we-have-launched-our-new-broker-activity-6945567075713064962-n-zN?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 <div class="page-break"></div>
 
