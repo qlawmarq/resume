@@ -39,39 +39,43 @@ Bachelor of Arts
 
 ### Programming Languages
 
-- TypeScript (Expert)
-- JavaScript (Expert)
-- CSS (Expert)
-- HTML (Expert)
-- Python (Proficient)
-- PHP (Proficient)
+- TypeScript (5 years of experience)
+- JavaScript (5 years of experience)
+- CSS (5 years of experience)
+- HTML (5 years of experience)
+- Python (2 years of experience)
+- PHP (2 years of experience)
 
 ### Programming Frameworks
 
-- React.js (Expert)
-- React Native (Expert)
-- Vue.js (Proficient)
-- Angular (Proficient)
-- FastAPI (Proficient)
-- Laravel (Proficient)
+- React.js (5 years of experience)
+- React Native (5 years of experience)
+- Vue.js (2 years of experience)
+- Angular (2 years of experience)
+- FastAPI (2 years of experience)
+- Laravel (2 years of experience)
+
+### Code Management
+
+- GitHub (5 years of experience)
 
 ### Cloud Computing Services
 
-- Amazon Web Services (Intermediate)
-- Google Cloud (Intermediate)
+- Amazon Web Services (2 years of experience)
+- Google Cloud (2 years of experience)
 
 ### CI/CD Tools
 
-- GitHub Actions (Proficient)
+- GitHub Actions (4 years of experience)
 
 ### Container Engines
 
-- Docker (Proficient)
-- Kubernetes (Intermediate)
+- Docker (4 years of experience)
+- Kubernetes (2 years of experience)
 
 ### Monitoring Tools
 
-- Sentry (Intermediate)
+- Sentry (2 years of experience)
 
 <div class="page-break"></div>
 
