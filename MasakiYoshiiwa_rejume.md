@@ -10,23 +10,28 @@
 
 ## Summary
 
-Front-end developer with extensive experience as full stack developer, with a demonstrated history of working in several industries.  
+Full stack developer, primarily front-end developer, with a demonstrated history of working in several industries.  
 Specialized in web application and mobile application development.  
 Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Python, etc.  
 Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.
 
 ## Education
-
-Apr 2012 – Mar 2017  
+  
 Yokohama City University, Japan  
-Bachelor of Arts
+Bachelor of Arts, 2017
 
 ## Extracurricular Activities
 
+### Publication
+- [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
+
 ### External Projects
 
-- [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
 - [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
+
+### Private Projects
+
+- [Several applications and their templates are available to the public.](https://github.com/qlawmarq?tab=repositories)
 
 <div class="page-break"></div>
 
