@@ -44,17 +44,17 @@ Bachelor of Arts, 2017
 
 ### Programming Languages
 
-- TypeScript (5 years of experience)
-- JavaScript (5 years of experience)
-- CSS (5 years of experience)
-- HTML (5 years of experience)
+- TypeScript (5+ years of experience)
+- JavaScript (5+ years of experience)
+- CSS (5+ years of experience)
+- HTML (5+ years of experience)
 - Python (2 years of experience)
 - PHP (2 years of experience)
 
 ### Programming Frameworks
 
-- React.js (5 years of experience)
-- React Native (5 years of experience)
+- React.js (5+ years of experience)
+- React Native (2 years of experience)
 - Vue.js (2 years of experience)
 - Angular (2 years of experience)
 - FastAPI (2 years of experience)
@@ -62,7 +62,7 @@ Bachelor of Arts, 2017
 
 ### Code Management
 
-- GitHub (5 years of experience)
+- GitHub (5+ years of experience)
 
 ### Cloud Computing Services
 
@@ -75,7 +75,7 @@ Bachelor of Arts, 2017
 
 ### Container Engines
 
-- Docker (4 years of experience)
+- Docker (5+ years of experience)
 - Kubernetes (2 years of experience)
 
 ### Monitoring Tools
@@ -110,7 +110,7 @@ Bachelor of Arts, 2017
 #### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
 
 - Developed web application and mobile native application (iOS/Android) from scratch.
-- Built a CI/CD Workflow with GitHub Actions for automated deployment.
+- Built CI/CD Workflow with GitHub Actions for automated deployment.
 - Application Technologies
   - TypeScript
   - Python
@@ -120,8 +120,8 @@ Bachelor of Arts, 2017
 
 #### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
 
-- Developed multiple web applications from scratch, and maintained and scaled them.
-- Setup the application infrastructures with Google Kubernetes Engine (GKE).
+- Developed multiple web applications and their API from scratch, and maintained and scaled them.
+- Setup the application infrastructures with Google Kubernetes Engine (GKE), also setup CI/CD Workflow for automated deployment.
 - Application Technologies
   - Python
   - TypeScript
@@ -151,7 +151,7 @@ Bachelor of Arts, 2017
   - Task management
   - Code Review
   - Adjust specifications and check implementation
-- Built a CI/CD Workflow with GitHub Actions for automated deployment.
+- Built CI/CD Workflow with GitHub Actions for automated deployment.
 - Application Technologies
   - React.js
   - TypeScript
@@ -201,11 +201,11 @@ Bachelor of Arts, 2017
   - HTML5
   - CSS3
 
-#### Development of Photoruction Eye
+#### Development of prototype product
 
 - Developed prototype of a web service from scratch.
 - Lead on technology selection and architecture design.
-- Building a CI/CD environment with GitHub Actions for automated deployment and more.
+- Built CI/CD environment with GitHub Actions for automated deployment and more.
 - Application technologies
   - TypeScript
   - React.js
