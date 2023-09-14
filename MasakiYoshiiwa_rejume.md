@@ -98,7 +98,7 @@ Bachelor of Arts, 2017
 
 #### Web/Mobile app development for multiple services
 
-- Developed multiple web/mobile app and their api and their CI/CD Workflow, by internal and external request.
+- To help clients digitalization and increase their productivity, developed multiple web/mobile app and their api and their infrastructure and CI/CD Workflow.
 - Application Technologies
   - React.js
   - TypeScript
@@ -106,6 +106,19 @@ Bachelor of Arts, 2017
   - FastAPI
   - Google Cloud
 - Some examples are described below.
+
+#### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
+
+- To help digitization, consulted with the client, developed multiple web applications and their API from scratch, and maintained.
+- Setup the application infrastructures with Google Kubernetes Engine (GKE), also setup CI/CD Workflow for automated deployment.
+- Application Technologies
+  - Python
+  - TypeScript
+  - FastAPI
+  - React.js (Next.js)
+  - Google Cloud
+  - Docker
+  - Kubernetes
 
 #### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
 
@@ -117,19 +130,6 @@ Bachelor of Arts, 2017
   - React Native (Expo)
   - Google Cloud
   - Docker
-
-#### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
-
-- Developed multiple web applications and their API from scratch, and maintained and scaled them.
-- Setup the application infrastructures with Google Kubernetes Engine (GKE), also setup CI/CD Workflow for automated deployment.
-- Application Technologies
-  - Python
-  - TypeScript
-  - FastAPI
-  - React.js (Next.js)
-  - Google Cloud
-  - Docker
-  - Kubernetes
 
 <div class="page-break"></div>
 
