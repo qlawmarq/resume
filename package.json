@@ -1,5 +1,5 @@
 {
-  "name": "markdown-to-cv-rejume-generator",
+  "name": "markdown-to-cv-resume-generator",
   "version": "2.0.0",
   "description": "Once write CV with markdown, Generate pdf of CV automatically with GitHub actions.",
   "main": "index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cymagix/my-cv-rejume.git"
+    "url": "git+https://github.com/cymagix/my-cv-resume.git"
   },
   "keywords": [
-    "rejume",
+    "resume",
     "pdf"
   ],
   "author": "Masaki Yoshiiwa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cymagix/my-cv-rejume/issues"
+    "url": "https://github.com/cymagix/my-cv-resume/issues"
   },
-  "homepage": "https://github.com/cymagix/my-cv-rejume/#readme",
+  "homepage": "https://github.com/cymagix/my-cv-resume/#readme",
   "dependencies": {
     "md-to-pdf": "^5.1.0"
   }
