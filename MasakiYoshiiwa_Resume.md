@@ -7,22 +7,25 @@
 | Email    | masaki.yoshiiwa@gmail.com                                        |
 | GitHub   | [github.com/qlawmarq](https://github.com/qlawmarq)               |
 | LinkedIn | [linkedin.com/in/qlawmarq](https://www.linkedin.com/in/qlawmarq) |
+| Other    | [Blog](https://qlawmarq.net/)                                    |
 
 ## Summary
 
 Full stack developer, primarily front-end developer, with a demonstrated history of working in several industries.  
 Specialized in web application and mobile application development.  
-Skilled in React.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Python, etc.  
-Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.
+Skilled in React, TypeScript, JavaScript, Python, etc.  
+Also has extensive experience developing from scratch, and has skill to build CI/CD workflow like automated deployment.  
+Passionate about solving interesting problems and finding new technologies. Loves automation, design, and writing code.
 
 ## Education
-  
+
 Yokohama City University, Japan  
 Bachelor of Arts, 2017
 
 ## Extracurricular Activities
 
 ### Publication
+
 - [Wrote an article about Visual Studio Code plug-ins for Software Design of June 2021 (Japanese edition only).](https://gihyo.jp/magazine/SD/archive/2021/202106)
 
 ### External Projects
@@ -53,7 +56,7 @@ Bachelor of Arts, 2017
 
 ### Programming Frameworks
 
-- React.js (5+ years of experience)
+- React (5+ years of experience)
 - React Native (2 years of experience)
 - Vue.js (2 years of experience)
 - Angular (2 years of experience)
@@ -99,8 +102,9 @@ Bachelor of Arts, 2017
 #### Web/Mobile app development for multiple services
 
 - To help clients digitalization and increase their productivity, developed multiple web/mobile app and their api and their infrastructure and CI/CD Workflow.
-- Application Technologies
-  - React.js
+- Development is mainly from scratch, starting with DB design and UI design, then development.
+- Application technologies (mainly used)
+  - React
   - TypeScript
   - Python
   - FastAPI
@@ -110,21 +114,22 @@ Bachelor of Arts, 2017
 #### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
 
 - To help digitization, consulted with the client, developed multiple web applications and their API from scratch, and maintained.
+  - Developed loan application management platform for financial brokers (their clients).
 - Setup the application infrastructures with Google Kubernetes Engine (GKE), also setup CI/CD Workflow for automated deployment.
-- Application Technologies
+- Application technologies
   - Python
   - TypeScript
   - FastAPI
-  - React.js (Next.js)
+  - React (Next.js)
   - Google Cloud
   - Docker
   - Kubernetes
 
-#### Development of [FieldStream](https://app.fieldstream.au/) app (web/mobile)
+#### Development of task management application for field staff (web/mobile)
 
 - Developed web application and mobile native application (iOS/Android) from scratch.
 - Built CI/CD Workflow with GitHub Actions for automated deployment.
-- Application Technologies
+- Application technologies
   - TypeScript
   - Python
   - React Native (Expo)
@@ -145,15 +150,15 @@ Bachelor of Arts, 2017
 
 #### Front-end development for multiple services (B2C/B2B)
 
-- Front-end development using React.js.
-- Responsible for web front-end development.
+- Front-end development using React, responsible for web front-end development
+  - Development of various applications for users, including web applications for application process and management of user rates and bills.
 - In some projects, worked as lead developer.
   - Task management
   - Code Review
   - Adjust specifications and check implementation
 - Built CI/CD Workflow with GitHub Actions for automated deployment.
-- Application Technologies
-  - React.js
+- Application technologies
+  - React
   - TypeScript
   - Redux
   - Cypress
@@ -164,8 +169,8 @@ Bachelor of Arts, 2017
 #### Development of UI components library to be used in the team
 
 - Developed UI component library that can be commonly used by all frontend development team.
-- Application Technologies
-  - React.js
+- Application technologies
+  - React
   - TypeScript
   - Storybook
   - Cypress
@@ -190,7 +195,7 @@ Bachelor of Arts, 2017
 
 #### Development of Photoruction
 
-- Developed some of new features for Photoruction web app, and maintained it.
+- Developed new features for Photoruction web app, and maintained it.
 - Responsible for development of all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
@@ -208,7 +213,7 @@ Bachelor of Arts, 2017
 - Built CI/CD environment with GitHub Actions for automated deployment and more.
 - Application technologies
   - TypeScript
-  - React.js
+  - React
   - Hasura GraphQL Engine
   - PostgreSQL
   - GitHub Actions
@@ -231,7 +236,7 @@ Bachelor of Arts, 2017
 
 #### Development and maintenance of "[Dear](https://dear-guest.com/)" web-based invitation card service for weddings
 
-- Developed and maintained the app features.
+- Developed new features and maintained the app.
 - Responsible for development of all web-related areas including API server, front-end, DB, infrastructure.
 - Application technologies
   - PHP
