@@ -31,10 +31,11 @@ Bachelor of Arts, 2017
 ### External Projects
 
 - [Joined public translation project Gatsby.js documents to Japanese.](https://github.com/gatsbyjs/gatsby-ja)
+- Contributed to some open source projects on GitHub.
 
 ### Private Projects
 
-- [Several applications and their templates are available to the public.](https://github.com/qlawmarq?tab=repositories)
+- [Several applications and their templates are publicly available.](https://github.com/qlawmarq?tab=repositories)
 
 <div class="page-break"></div>
 
@@ -104,24 +105,22 @@ Bachelor of Arts, 2017
 - To help clients digitalization and increase their productivity, developed multiple web/mobile app and their api and their infrastructure and CI/CD Workflow.
 - Development is mainly from scratch, starting with DB design and UI design, then development.
 - Application technologies (mainly used)
-  - React
-  - TypeScript
-  - Python
-  - FastAPI
-  - Google Cloud
+  - TypeScript, React (Next.js), React Native (Expo)
+  - FastAPI, Python
+  - Google Cloud, Cloud Run, GKE
+  - Docker, Kubernetes
+  - GitHub Actions for CI/CD
 - Some examples are described below.
 
 #### Development of web application platform for [ACL group](https://affordablecarloans.com.au/)
 
 - To help digitization, consulted with the client, developed multiple web applications and their API from scratch, and maintained.
-  - Developed loan application management platform for financial brokers (their clients).
+  - Developed loan application platform for financial brokers (their clients), and application management platform for client.
 - Setup the application infrastructures with Google Kubernetes Engine (GKE), also setup CI/CD Workflow for automated deployment.
 - Application technologies
-  - Python
-  - TypeScript
-  - FastAPI
-  - React (Next.js)
-  - Google Cloud
+  - FastAPI, Python
+  - React (Next.js), TypeScript
+  - Google Cloud, GKE
   - Docker
   - Kubernetes
 
@@ -130,10 +129,8 @@ Bachelor of Arts, 2017
 - Developed web application and mobile native application (iOS/Android) from scratch.
 - Built CI/CD Workflow with GitHub Actions for automated deployment.
 - Application technologies
-  - TypeScript
-  - Python
-  - React Native (Expo)
-  - Google Cloud
+  - React Native (Expo), TypeScript
+  - FastAPI, Python
   - Docker
 
 <div class="page-break"></div>
@@ -158,24 +155,20 @@ Bachelor of Arts, 2017
   - Adjust specifications and check implementation
 - Built CI/CD Workflow with GitHub Actions for automated deployment.
 - Application technologies
-  - React
   - TypeScript
+  - React
   - Redux
   - Cypress
-  - HTML5
-  - CSS3
   - Google Cloud
 
 #### Development of UI components library to be used in the team
 
 - Developed UI component library that can be commonly used by all frontend development team.
 - Application technologies
-  - React
   - TypeScript
+  - React
   - Storybook
   - Cypress
-  - HTML5
-  - CSS3
 
 #### Managing Akamai CDN service
 
@@ -214,7 +207,7 @@ Bachelor of Arts, 2017
 - Application technologies
   - TypeScript
   - React
-  - Hasura GraphQL Engine
+  - GraphQL
   - PostgreSQL
   - GitHub Actions
   - Auth0
@@ -242,7 +235,6 @@ Bachelor of Arts, 2017
   - PHP
   - JavaScript
   - Vue.js
-  - jQuery
   - Laravel
   - Amazon Web Services
   - HTML5
@@ -257,7 +249,6 @@ Bachelor of Arts, 2017
   - PHP
   - JavaScript
   - Vue.js
-  - jQuery
   - Amazon Web Services
 - Clients
   - [Yoshinoya (Japanese restaurant)](https://www.yoshinoya.com/)
